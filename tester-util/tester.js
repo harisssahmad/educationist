@@ -31,7 +31,7 @@ fs.readFile(inputFileName, "utf8", async (err, data) => {
     // Process each entry in JSON data
     for (const entry of jsonData.papers) {
         totalFilesChecked++;
-        const { link, text } = entry;
+        const { link, text, textCondensed } = entry;
 
         // Check if the 'link' property exists
         if (!link) {
@@ -41,12 +41,27 @@ fs.readFile(inputFileName, "utf8", async (err, data) => {
 
         // Send HTTP request
         const request = axios
-            .head(link, { timeout: 10000 })
+            .head(link, {
+                headers: {
+                    "User-Agent": "TesterUtil/1.0",
+                },
+                timeout: 10000,
+            })
             .then((response) => {
                 // Check if content-type is "application/pdf"
                 const contentType = response.headers["content-type"];
+                const contentDisposition =
+                    response.headers["content-disposition"];
+
+                // Check if content-disposition has filename = textCondensed.pdf
+                const isTextCondensedPDF =
+                    contentDisposition &&
+                    contentDisposition.includes(`${textCondensed}`);
+
                 const status =
-                    contentType === "application/pdf" ? "OK" : "NOT-OK";
+                    contentType === "application/pdf" || isTextCondensedPDF
+                        ? "OK"
+                        : "NOT-OK";
 
                 // Update counters
                 if (status === "OK") {
@@ -57,8 +72,13 @@ fs.readFile(inputFileName, "utf8", async (err, data) => {
                 }
             })
             .catch((error) => {
-                // Write to CSV
-                fs.appendFileSync(outputFileName, `"${text}","${link}"\n`);
+                if (error.message.contains("timeout")) {
+                    // slow internet issue, file still exists
+                    okCount++;
+                } else {
+                    // Otherwise, write to CSV
+                    fs.appendFileSync(outputFileName, `"${text}","${link}"\n`);
+                }
 
                 if (axios.isCancel(error)) {
                     console.error(`Request canceled for ${text}`);

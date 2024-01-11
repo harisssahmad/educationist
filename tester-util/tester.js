@@ -72,9 +72,10 @@ fs.readFile(inputFileName, "utf8", async (err, data) => {
                 }
             })
             .catch((error) => {
-                if (error.message.contains("timeout")) {
+                if (error.message.includes("timeout")) {
                     // slow internet issue, file still exists
                     okCount++;
+                    // console.log(`"${text}"\t"${textCondensed}"\t"${link}"`);
                 } else {
                     // Otherwise, write to CSV
                     fs.appendFileSync(outputFileName, `"${text}","${link}"\n`);

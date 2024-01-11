@@ -59,7 +59,9 @@ fs.readFile(inputFileName, "utf8", async (err, data) => {
                     contentDisposition.includes(`${textCondensed}`);
 
                 const status =
-                    contentType === "application/pdf" || isTextCondensedPDF
+                    contentType === "application/pdf" ||
+                    contentType === "application/zip" ||
+                    isTextCondensedPDF
                         ? "OK"
                         : "NOT-OK";
 

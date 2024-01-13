@@ -58,20 +58,15 @@ fs.readFile(inputFileName, "utf8", async (err, data) => {
                     contentDisposition &&
                     contentDisposition.includes(`${textCondensed}`);
 
-                const status =
-                    contentType === "application/pdf" ||
-                    contentType === "application/zip" ||
-                    isTextCondensedPDF
-                        ? "OK"
-                        : "NOT-OK";
-
-                // Update counters
-                if (status === "OK") {
-                    okCount++;
-                } else {
-                    // Write to CSV
-                    fs.appendFileSync(outputFileName, `"${text}","${link}"\n`);
-                }
+                // Check status of the request
+                contentType === "application/pdf" ||
+                contentType === "application/zip" ||
+                isTextCondensedPDF
+                    ? okCount++ // response is OK
+                    : fs.appendFileSync(
+                          outputFileName,
+                          `"${text}","${link}"\n`
+                      ); // response is not OK, write to CSV
             })
             .catch((error) => {
                 if (error.message.includes("timeout")) {

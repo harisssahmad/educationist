@@ -1,17 +1,56 @@
 {
   "subjects": [
-    {"name": "Physics", "code": 5054},
-    {"name": "Chemistry", "code": 5070},
-    {"name": "Mathematics", "code": 4024},
-    {"name": "Urdu - Second Language", "code": 3248},
-    {"name": "Pakistan Studies", "code": 2059},
-    {"name": "Islamiyat", "code": 2058},
-    {"name": "English Language", "code": 1123},
-    {"name": "Accounting", "code": 7707},
-    {"name": "Principles of Accounts", "code": 7110},
-    {"name": "Business Studies", "code": 7115},
-    {"name": "Economics", "code": 2281},
-    {"name": "Computer Science", "code": 2210},
-    {"name": "Biology", "code": 5090}
+    {
+      "name": "Accounting",
+      "code": 7707
+    },
+    {
+      "name": "Biology",
+      "code": 5090
+    },
+    {
+      "name": "Business Studies",
+      "code": 7115
+    },
+    {
+      "name": "Chemistry",
+      "code": 5070
+    },
+    {
+      "name": "Computer Science",
+      "code": 2210
+    },
+    {
+      "name": "Economics",
+      "code": 2281
+    },
+    {
+      "name": "English Language",
+      "code": 1123
+    },
+    {
+      "name": "Islamiyat",
+      "code": 2058
+    },
+    {
+      "name": "Mathematics",
+      "code": 4024
+    },
+    {
+      "name": "Pakistan Studies",
+      "code": 2059
+    },
+    {
+      "name": "Physics",
+      "code": 5054
+    },
+    {
+      "name": "Principles of Accounts",
+      "code": 7110
+    },
+    {
+      "name": "Urdu - Second Language",
+      "code": 3248
+    }
   ]
 }

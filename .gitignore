@@ -11,9 +11,6 @@ __pycache__/
 *.so
 
 # Virtual environment
-crawler/venv/
-venv/
-crawler/env/
 env/
 ENV/
 .venv/

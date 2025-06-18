@@ -1,0 +1,436 @@
+{
+  "subjects": [
+    {
+      "name": "Accounting",
+      "code": "9706"
+    },
+    {
+      "name": "Afrikaan",
+      "code": "8679"
+    },
+    {
+      "name": "Afrikaans",
+      "code": "8779"
+    },
+    {
+      "name": "Afrikaans",
+      "code": "9679"
+    },
+    {
+      "name": "Applied ICT",
+      "code": "9713"
+    },
+    {
+      "name": "Arabic",
+      "code": "8680"
+    },
+    {
+      "name": "Arabic",
+      "code": "9680"
+    },
+    {
+      "name": "Art and Design",
+      "code": "9704"
+    },
+    {
+      "name": "Art-and-Design",
+      "code": "9479"
+    },
+    {
+      "name": "Biblical Studies",
+      "code": "9484"
+    },
+    {
+      "name": "Biology",
+      "code": "9184"
+    },
+    {
+      "name": "Biology",
+      "code": "9700"
+    },
+    {
+      "name": "Business",
+      "code": "9609"
+    },
+    {
+      "name": "Business Studies",
+      "code": "9707"
+    },
+    {
+      "name": "Cambridge International Project Qualification",
+      "code": "9980"
+    },
+    {
+      "name": "Chemistry",
+      "code": "9185"
+    },
+    {
+      "name": "Chemistry",
+      "code": "9701"
+    },
+    {
+      "name": "Chinese",
+      "code": "8238"
+    },
+    {
+      "name": "Chinese",
+      "code": "8669"
+    },
+    {
+      "name": "Chinese",
+      "code": "8681"
+    },
+    {
+      "name": "Chinese",
+      "code": "9715"
+    },
+    {
+      "name": "Chinese",
+      "code": "9868"
+    },
+    {
+      "name": "Classical Studies",
+      "code": "9274"
+    },
+    {
+      "name": "Computer Science",
+      "code": "9608"
+    },
+    {
+      "name": "Computer Science - for first examination in",
+      "code": "2021"
+    },
+    {
+      "name": "Computer Science - for first examination in",
+      "code": "9618"
+    },
+    {
+      "name": "Computing",
+      "code": "9691"
+    },
+    {
+      "name": "Design and Technology",
+      "code": "9481"
+    },
+    {
+      "name": "Design and Technology",
+      "code": "9705"
+    },
+    {
+      "name": "Design and Textiles",
+      "code": "9631"
+    },
+    {
+      "name": "Divinity",
+      "code": "8041"
+    },
+    {
+      "name": "Divinity",
+      "code": "9011"
+    },
+    {
+      "name": "Drama",
+      "code": "9482"
+    },
+    {
+      "name": "Economics",
+      "code": "9708"
+    },
+    {
+      "name": "English",
+      "code": "8274"
+    },
+    {
+      "name": "English",
+      "code": "8287"
+    },
+    {
+      "name": "English",
+      "code": "8693"
+    },
+    {
+      "name": "English",
+      "code": "8695"
+    },
+    {
+      "name": "English",
+      "code": "9093"
+    },
+    {
+      "name": "English - Literature",
+      "code": "9276"
+    },
+    {
+      "name": "English - Literature",
+      "code": "9695"
+    },
+    {
+      "name": "English General Paper",
+      "code": "8021"
+    },
+    {
+      "name": "Environmental Management",
+      "code": "8291"
+    },
+    {
+      "name": "Food Studies",
+      "code": "9336"
+    },
+    {
+      "name": "French",
+      "code": "8682"
+    },
+    {
+      "name": "French",
+      "code": "9716"
+    },
+    {
+      "name": "French - Literature",
+      "code": "8670"
+    },
+    {
+      "name": "General Paper",
+      "code": "8001"
+    },
+    {
+      "name": "General Paper",
+      "code": "8004"
+    },
+    {
+      "name": "Geography",
+      "code": "9696"
+    },
+    {
+      "name": "German",
+      "code": "8683"
+    },
+    {
+      "name": "German",
+      "code": "9717"
+    },
+    {
+      "name": "Global Perspectives",
+      "code": "8275"
+    },
+    {
+      "name": "Global Perspectives",
+      "code": "8987"
+    },
+    {
+      "name": "Global Perspectives and Research",
+      "code": "9239"
+    },
+    {
+      "name": "Hindi",
+      "code": "8687"
+    },
+    {
+      "name": "Hindi",
+      "code": "9687"
+    },
+    {
+      "name": "Hindi - Literature",
+      "code": "8675"
+    },
+    {
+      "name": "Hinduism",
+      "code": "8058"
+    },
+    {
+      "name": "Hinduism",
+      "code": "9014"
+    },
+    {
+      "name": "Hinduism",
+      "code": "9487"
+    },
+    {
+      "name": "History",
+      "code": "9279"
+    },
+    {
+      "name": "History",
+      "code": "9389"
+    },
+    {
+      "name": "History",
+      "code": "9489"
+    },
+    {
+      "name": "History",
+      "code": "9697"
+    },
+    {
+      "name": "Information Technology",
+      "code": "9626"
+    },
+    {
+      "name": "Islamic Studies",
+      "code": "8053"
+    },
+    {
+      "name": "Islamic Studies",
+      "code": "9013"
+    },
+    {
+      "name": "Islamic Studies",
+      "code": "9488"
+    },
+    {
+      "name": "Japanese",
+      "code": "8281"
+    },
+    {
+      "name": "Law",
+      "code": "9084"
+    },
+    {
+      "name": "Marathi",
+      "code": "8688"
+    },
+    {
+      "name": "Marathi",
+      "code": "9688"
+    },
+    {
+      "name": "Marine Science",
+      "code": "9693"
+    },
+    {
+      "name": "Mathematics",
+      "code": "9231"
+    },
+    {
+      "name": "Mathematics",
+      "code": "9280"
+    },
+    {
+      "name": "Mathematics",
+      "code": "9709"
+    },
+    {
+      "name": "Media Studies",
+      "code": "9607"
+    },
+    {
+      "name": "Music",
+      "code": "8663"
+    },
+    {
+      "name": "Music",
+      "code": "9483"
+    },
+    {
+      "name": "Music",
+      "code": "9703"
+    },
+    {
+      "name": "Nepal Studies",
+      "code": "8024"
+    },
+    {
+      "name": "Physical Education",
+      "code": "9396"
+    },
+    {
+      "name": "Physical Science",
+      "code": "8780"
+    },
+    {
+      "name": "Physics",
+      "code": "9702"
+    },
+    {
+      "name": "Portuguese",
+      "code": "8672"
+    },
+    {
+      "name": "Portuguese",
+      "code": "8684"
+    },
+    {
+      "name": "Portuguese",
+      "code": "9718"
+    },
+    {
+      "name": "Psychology",
+      "code": "9698"
+    },
+    {
+      "name": "Psychology",
+      "code": "9990"
+    },
+    {
+      "name": "Sociology",
+      "code": "9699"
+    },
+    {
+      "name": "Spanish",
+      "code": "8022"
+    },
+    {
+      "name": "Spanish",
+      "code": "8278"
+    },
+    {
+      "name": "Spanish",
+      "code": "8665"
+    },
+    {
+      "name": "Spanish",
+      "code": "8673"
+    },
+    {
+      "name": "Spanish",
+      "code": "8685"
+    },
+    {
+      "name": "Spanish",
+      "code": "9719"
+    },
+    {
+      "name": "Spanish",
+      "code": "9844"
+    },
+    {
+      "name": "Sport & Physical Education",
+      "code": "8386"
+    },
+    {
+      "name": "Tamil",
+      "code": "8689"
+    },
+    {
+      "name": "Tamil",
+      "code": "9689"
+    },
+    {
+      "name": "Telugu",
+      "code": "8690"
+    },
+    {
+      "name": "Telugu",
+      "code": "9690"
+    },
+    {
+      "name": "Thinking Skills",
+      "code": "9694"
+    },
+    {
+      "name": "Travel and Tourism",
+      "code": "9395"
+    },
+    {
+      "name": "Urdu",
+      "code": "8686"
+    },
+    {
+      "name": "Urdu",
+      "code": "9676"
+    },
+    {
+      "name": "Urdu",
+      "code": "9686"
+    }
+  ]
+}

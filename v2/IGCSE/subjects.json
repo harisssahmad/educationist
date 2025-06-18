@@ -1,0 +1,552 @@
+{
+  "subjects": [
+    {
+      "name": "Accounting",
+      "code": "0452"
+    },
+    {
+      "name": "Accounting",
+      "code": "0985"
+    },
+    {
+      "name": "Afrikaans",
+      "code": "0512"
+    },
+    {
+      "name": "Afrikaans",
+      "code": "0548"
+    },
+    {
+      "name": "Agriculture",
+      "code": "0600"
+    },
+    {
+      "name": "Arabic",
+      "code": "0508"
+    },
+    {
+      "name": "Arabic",
+      "code": "0544"
+    },
+    {
+      "name": "Arabic",
+      "code": "7184"
+    },
+    {
+      "name": "Art and Design",
+      "code": "0400"
+    },
+    {
+      "name": "Art and Design",
+      "code": "0415"
+    },
+    {
+      "name": "Art-and-Design",
+      "code": "0989"
+    },
+    {
+      "name": "Bahasa Indonesia",
+      "code": "0538"
+    },
+    {
+      "name": "Bangladesh Studies",
+      "code": "0449"
+    },
+    {
+      "name": "Biology",
+      "code": "0438"
+    },
+    {
+      "name": "Biology",
+      "code": "0610"
+    },
+    {
+      "name": "Biology",
+      "code": "0970"
+    },
+    {
+      "name": "Business Studies",
+      "code": "0450"
+    },
+    {
+      "name": "Business-Studies (UK)",
+      "code": "0986"
+    },
+    {
+      "name": "Chemistry",
+      "code": "0439"
+    },
+    {
+      "name": "Chemistry",
+      "code": "0620"
+    },
+    {
+      "name": "Chemistry (UK)",
+      "code": "0971"
+    },
+    {
+      "name": "Child Development",
+      "code": "0637"
+    },
+    {
+      "name": "Chinese",
+      "code": "0509"
+    },
+    {
+      "name": "Chinese",
+      "code": "0523"
+    },
+    {
+      "name": "Chinese",
+      "code": "0547"
+    },
+    {
+      "name": "Computer Science",
+      "code": "0478"
+    },
+    {
+      "name": "Computer Science",
+      "code": "0984"
+    },
+    {
+      "name": "Computer Studies",
+      "code": "0420"
+    },
+    {
+      "name": "Czech - First Language",
+      "code": "0514"
+    },
+    {
+      "name": "Design and Technology",
+      "code": "0445"
+    },
+    {
+      "name": "Design and technology",
+      "code": "0979"
+    },
+    {
+      "name": "Development Studies",
+      "code": "0453"
+    },
+    {
+      "name": "Drama",
+      "code": "0411"
+    },
+    {
+      "name": "Drama",
+      "code": "0428"
+    },
+    {
+      "name": "Drama",
+      "code": "0994"
+    },
+    {
+      "name": "Dutch",
+      "code": "0503"
+    },
+    {
+      "name": "Dutch",
+      "code": "0515"
+    },
+    {
+      "name": "Economics",
+      "code": "0455"
+    },
+    {
+      "name": "Economics",
+      "code": "0987"
+    },
+    {
+      "name": "English",
+      "code": "0427"
+    },
+    {
+      "name": "English",
+      "code": "0472"
+    },
+    {
+      "name": "English",
+      "code": "0475"
+    },
+    {
+      "name": "English",
+      "code": "0476"
+    },
+    {
+      "name": "English",
+      "code": "0477"
+    },
+    {
+      "name": "English",
+      "code": "0486"
+    },
+    {
+      "name": "English",
+      "code": "0500"
+    },
+    {
+      "name": "English",
+      "code": "0510"
+    },
+    {
+      "name": "English",
+      "code": "0511"
+    },
+    {
+      "name": "English",
+      "code": "0522"
+    },
+    {
+      "name": "English",
+      "code": "0524"
+    },
+    {
+      "name": "English",
+      "code": "0627"
+    },
+    {
+      "name": "English",
+      "code": "0772"
+    },
+    {
+      "name": "English",
+      "code": "0990"
+    },
+    {
+      "name": "English",
+      "code": "0991"
+    },
+    {
+      "name": "English",
+      "code": "0992"
+    },
+    {
+      "name": "English",
+      "code": "0993"
+    },
+    {
+      "name": "English (as a Second Language)",
+      "code": "0465"
+    },
+    {
+      "name": "Enterprise",
+      "code": "0454"
+    },
+    {
+      "name": "Environmental Management",
+      "code": "0680"
+    },
+    {
+      "name": "Food and Nutrition",
+      "code": "0648"
+    },
+    {
+      "name": "French",
+      "code": "0501"
+    },
+    {
+      "name": "French",
+      "code": "0520"
+    },
+    {
+      "name": "French",
+      "code": "0528"
+    },
+    {
+      "name": "French",
+      "code": "7156"
+    },
+    {
+      "name": "French - Foreign Language (UK)",
+      "code": "0685"
+    },
+    {
+      "name": "Geography",
+      "code": "0460"
+    },
+    {
+      "name": "Geography",
+      "code": "0976"
+    },
+    {
+      "name": "German",
+      "code": "0505"
+    },
+    {
+      "name": "German",
+      "code": "0525"
+    },
+    {
+      "name": "German",
+      "code": "0677"
+    },
+    {
+      "name": "German (UK)",
+      "code": "7159"
+    },
+    {
+      "name": "Global Perspectives",
+      "code": "0426"
+    },
+    {
+      "name": "Global Perspectives",
+      "code": "0457"
+    },
+    {
+      "name": "Greek",
+      "code": "0543"
+    },
+    {
+      "name": "Hindi",
+      "code": "0549"
+    },
+    {
+      "name": "History",
+      "code": "0416"
+    },
+    {
+      "name": "History",
+      "code": "0470"
+    },
+    {
+      "name": "History",
+      "code": "0977"
+    },
+    {
+      "name": "History - American",
+      "code": "0409"
+    },
+    {
+      "name": "ICT",
+      "code": "0417"
+    },
+    {
+      "name": "India Studies",
+      "code": "0447"
+    },
+    {
+      "name": "Indonesian",
+      "code": "0545"
+    },
+    {
+      "name": "Information and Communication Technology (9-1)",
+      "code": "0983"
+    },
+    {
+      "name": "IsiZulu",
+      "code": "0531"
+    },
+    {
+      "name": "Islamiyat",
+      "code": "0493"
+    },
+    {
+      "name": "Italian",
+      "code": "0535"
+    },
+    {
+      "name": "Italian",
+      "code": "7164"
+    },
+    {
+      "name": "Japanese",
+      "code": "0507"
+    },
+    {
+      "name": "Japanese",
+      "code": "0519"
+    },
+    {
+      "name": "Kazakh",
+      "code": "0532"
+    },
+    {
+      "name": "Korean",
+      "code": "0521"
+    },
+    {
+      "name": "Latin",
+      "code": "0480"
+    },
+    {
+      "name": "Malay",
+      "code": "0546"
+    },
+    {
+      "name": "Malay - First Language",
+      "code": "0696"
+    },
+    {
+      "name": "Marine Science Maldives only",
+      "code": "0697"
+    },
+    {
+      "name": "Mathematics",
+      "code": "0444"
+    },
+    {
+      "name": "Mathematics",
+      "code": "0459"
+    },
+    {
+      "name": "Mathematics",
+      "code": "0580"
+    },
+    {
+      "name": "Mathematics",
+      "code": "0581"
+    },
+    {
+      "name": "Mathematics",
+      "code": "0606"
+    },
+    {
+      "name": "Mathematics",
+      "code": "0607"
+    },
+    {
+      "name": "Mathematics",
+      "code": "0626"
+    },
+    {
+      "name": "Mathematics",
+      "code": "0980"
+    },
+    {
+      "name": "Music",
+      "code": "0410"
+    },
+    {
+      "name": "Music",
+      "code": "0429"
+    },
+    {
+      "name": "Music (UK)",
+      "code": "0978"
+    },
+    {
+      "name": "Pakistan Studies",
+      "code": "0448"
+    },
+    {
+      "name": "Physical Education",
+      "code": "0413"
+    },
+    {
+      "name": "Physical Science",
+      "code": "0652"
+    },
+    {
+      "name": "Physical-Education",
+      "code": "0995"
+    },
+    {
+      "name": "Physics",
+      "code": "0443"
+    },
+    {
+      "name": "Physics",
+      "code": "0625"
+    },
+    {
+      "name": "Physics",
+      "code": "0972"
+    },
+    {
+      "name": "Portuguese",
+      "code": "0504"
+    },
+    {
+      "name": "Portuguese",
+      "code": "0540"
+    },
+    {
+      "name": "Religious Studies",
+      "code": "0490"
+    },
+    {
+      "name": "Russian",
+      "code": "0516"
+    },
+    {
+      "name": "Sanskrit",
+      "code": "0499"
+    },
+    {
+      "name": "Science",
+      "code": "0653"
+    },
+    {
+      "name": "Sciences",
+      "code": "0442"
+    },
+    {
+      "name": "Sciences",
+      "code": "0654"
+    },
+    {
+      "name": "Sciences",
+      "code": "0973"
+    },
+    {
+      "name": "Sociology",
+      "code": "0495"
+    },
+    {
+      "name": "Spanish",
+      "code": "0502"
+    },
+    {
+      "name": "Spanish",
+      "code": "0530"
+    },
+    {
+      "name": "Spanish",
+      "code": "0533"
+    },
+    {
+      "name": "Spanish",
+      "code": "0537"
+    },
+    {
+      "name": "Spanish",
+      "code": "0678"
+    },
+    {
+      "name": "Spanish",
+      "code": "7160"
+    },
+    {
+      "name": "Spanish Literature",
+      "code": "0488"
+    },
+    {
+      "name": "Swahili",
+      "code": "0262"
+    },
+    {
+      "name": "Thai",
+      "code": "0518"
+    },
+    {
+      "name": "Travel and Tourism",
+      "code": "0471"
+    },
+    {
+      "name": "Turkish",
+      "code": "0513"
+    },
+    {
+      "name": "Twenty-First Century Science",
+      "code": "0608"
+    },
+    {
+      "name": "Urdu",
+      "code": "0539"
+    },
+    {
+      "name": "World Literature",
+      "code": "0408"
+    }
+  ]
+}

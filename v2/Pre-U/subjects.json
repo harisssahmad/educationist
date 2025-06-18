@@ -1,11 +1,11 @@
 {
   "subjects": [
     {
-      "name": "Art-And-Design",
+      "name": "Art And Design",
       "code": "9837"
     },
     {
-      "name": "Art-History",
+      "name": "Art History",
       "code": "9799"
     },
     {
@@ -13,7 +13,7 @@
       "code": "9790"
     },
     {
-      "name": "Business-And-Management",
+      "name": "Business And Management",
       "code": "9771"
     },
     {
@@ -21,19 +21,19 @@
       "code": "9791"
     },
     {
-      "name": "Classical-Greek",
+      "name": "Classical Greek",
       "code": "9787"
     },
     {
-      "name": "Classical-Heritage",
+      "name": "Classical Heritage",
       "code": "9786"
     },
     {
-      "name": "Comparative-Government-And-Politics",
+      "name": "Comparative Government And Politics",
       "code": "9770"
     },
     {
-      "name": "Drama-And-Theatre",
+      "name": "Drama And Theatre",
       "code": "9801"
     },
     {
@@ -49,15 +49,15 @@
       "code": "9779"
     },
     {
-      "name": "French-(Short-Course)",
+      "name": "French (Short Course)",
       "code": "1342"
     },
     {
-      "name": "Further-Mathematics",
+      "name": "Further Mathematics",
       "code": "9795"
     },
     {
-      "name": "Further-Mathematics-(Short-Course)",
+      "name": "Further Mathematics (Short Course)",
       "code": "1348"
     },
     {
@@ -69,19 +69,19 @@
       "code": "9780"
     },
     {
-      "name": "German-(Short-Course)",
+      "name": "German (Short Course)",
       "code": "1343"
     },
     {
-      "name": "Global-Perspectives-And-Research",
+      "name": "Global Perspectives And Research",
       "code": "9766"
     },
     {
-      "name": "Global-Perspectives-And-Research",
+      "name": "Global Perspectives And Research",
       "code": "9777"
     },
     {
-      "name": "Global-Perspesctives-(Short-Course)-(UK-Only)",
+      "name": "Global Perspesctives (Short Course) (UK Only)",
       "code": "1340"
     },
     {
@@ -93,7 +93,7 @@
       "code": "9783"
     },
     {
-      "name": "Italian-(Short-Course)",
+      "name": "Italian (Short Course)",
       "code": "1346"
     },
     {
@@ -101,11 +101,11 @@
       "code": "9788"
     },
     {
-      "name": "Mandarin-Chinese",
+      "name": "Mandarin Chinese",
       "code": "9778"
     },
     {
-      "name": "Mandarin-Chinese-(Short-Course)",
+      "name": "Mandarin Chinese (Short Course)",
       "code": "1341"
     },
     {
@@ -113,7 +113,7 @@
       "code": "9794"
     },
     {
-      "name": "Mathematics-(Statistics-With-Pure-Mathematics)-(Short-Course)",
+      "name": "Mathematics (Statistics With Pure Mathematics) (Short Course)",
       "code": "1347"
     },
     {
@@ -121,7 +121,7 @@
       "code": "9800"
     },
     {
-      "name": "Philosophy-And-Theology",
+      "name": "Philosophy And Theology",
       "code": "9774"
     },
     {
@@ -137,7 +137,7 @@
       "code": "9782"
     },
     {
-      "name": "Russian-(Short-Course)",
+      "name": "Russian (Short Course)",
       "code": "1345"
     },
     {
@@ -145,7 +145,7 @@
       "code": "9781"
     },
     {
-      "name": "Spanish-(Short-Course)",
+      "name": "Spanish (Short Course)",
       "code": "1344"
     }
   ]

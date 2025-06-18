@@ -1,0 +1,44 @@
+{
+  "board": "AS and A Level",
+  "subject": "English - 8274",
+  "total_papers": 6,
+  "scraped_at": "2025-06-18 13:20:50",
+  "papers": [
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8274_s14_gt.pdf",
+      "text": "June 2014 Grade Threshold",
+      "textCondensed": "8274_s14_gt",
+      "folder": "2014 Jun"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8274_s14_ms_2.pdf",
+      "text": "June 2014 Mark Scheme 2",
+      "textCondensed": "8274_s14_ms_2",
+      "folder": "2014 Jun"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8274_s14_qp_2.pdf",
+      "text": "June 2014 Question Paper 2",
+      "textCondensed": "8274_s14_qp_2",
+      "folder": "2014 Jun"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8274_s14_qp_9.pdf",
+      "text": "June 2014 Question Paper 9",
+      "textCondensed": "8274_s14_qp_9",
+      "folder": "2014 Jun"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8274_s13_qp_09.pdf",
+      "text": "June 2013 Question Paper 09",
+      "textCondensed": "8274_s13_qp_09",
+      "folder": "2013 Jun"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8274_s13_qp_2.pdf",
+      "text": "June 2013 Question Paper 2",
+      "textCondensed": "8274_s13_qp_2",
+      "folder": "2013 Jun"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "board": "IGCSE",
+  "subject": "Global Perspectives - 0426",
+  "total_papers": 5,
+  "scraped_at": "2025-06-18 09:17:05",
+  "papers": [
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0426_w13_in_3.pdf",
+      "text": "November 2013 Insert 3",
+      "textCondensed": "0426_w13_in_3",
+      "folder": "2013 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0426_w13_qp_3.pdf",
+      "text": "November 2013 Question Paper 3",
+      "textCondensed": "0426_w13_qp_3",
+      "folder": "2013 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0426_s13_er.pdf",
+      "text": "June 2013 Examiner Reports",
+      "textCondensed": "0426_s13_er",
+      "folder": "2013 Jun"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0426_s13_in_3.pdf",
+      "text": "June 2013 Insert 3",
+      "textCondensed": "0426_s13_in_3",
+      "folder": "2013 Jun"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0426_s13_ms_3.pdf",
+      "text": "June 2013 Mark Scheme 3",
+      "textCondensed": "0426_s13_ms_3",
+      "folder": "2013 Jun"
+    }
+  ]
+}

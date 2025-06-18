@@ -1,0 +1,68 @@
+{
+  "board": "O Level",
+  "subject": "Biblical Studies-2035",
+  "total_papers": 10,
+  "scraped_at": "2025-06-18 02:24:06",
+  "papers": [
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/2035_w24_gt.pdf",
+      "text": "November 2024 Grade Threshold",
+      "textCondensed": "2035_w24_gt",
+      "folder": "2024-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/2035_w24_ms_12.pdf",
+      "text": "November 2024 Mark Scheme 12",
+      "textCondensed": "2035_w24_ms_12",
+      "folder": "2024-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/2035_w24_ms_22.pdf",
+      "text": "November 2024 Mark Scheme 22",
+      "textCondensed": "2035_w24_ms_22",
+      "folder": "2024-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/2035_w24_qp_12.pdf",
+      "text": "November 2024 Question Paper 12",
+      "textCondensed": "2035_w24_qp_12",
+      "folder": "2024-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/2035_w24_qp_22.pdf",
+      "text": "November 2024 Question Paper 22",
+      "textCondensed": "2035_w24_qp_22",
+      "folder": "2024-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/2035_s24_gt.pdf",
+      "text": "June 2024 Grade Threshold",
+      "textCondensed": "2035_s24_gt",
+      "folder": "2024-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/2035_s24_ms_12.pdf",
+      "text": "June 2024 Mark Scheme 12",
+      "textCondensed": "2035_s24_ms_12",
+      "folder": "2024-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/2035_s24_ms_22.pdf",
+      "text": "June 2024 Mark Scheme 22",
+      "textCondensed": "2035_s24_ms_22",
+      "folder": "2024-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/2035_s24_qp_12.pdf",
+      "text": "June 2024 Question Paper 12",
+      "textCondensed": "2035_s24_qp_12",
+      "folder": "2024-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/2035_s24_qp_22.pdf",
+      "text": "June 2024 Question Paper 22",
+      "textCondensed": "2035_s24_qp_22",
+      "folder": "2024-May-June"
+    }
+  ]
+}

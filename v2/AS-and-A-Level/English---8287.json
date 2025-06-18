@@ -1,0 +1,50 @@
+{
+  "board": "AS and A Level",
+  "subject": "English - 8287",
+  "total_papers": 7,
+  "scraped_at": "2025-06-18 13:21:03",
+  "papers": [
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8287_w15_gt.pdf",
+      "text": "November 2015 Grade Threshold",
+      "textCondensed": "8287_w15_gt",
+      "folder": "2015 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8287_w15_ms_11.pdf",
+      "text": "November 2015 Mark Scheme 11",
+      "textCondensed": "8287_w15_ms_11",
+      "folder": "2015 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8287_w15_ms_13.pdf",
+      "text": "November 2015 Mark Scheme 13",
+      "textCondensed": "8287_w15_ms_13",
+      "folder": "2015 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8287_w15_ms_21.pdf",
+      "text": "November 2015 Mark Scheme 21",
+      "textCondensed": "8287_w15_ms_21",
+      "folder": "2015 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8287_w15_ms_23.pdf",
+      "text": "November 2015 Mark Scheme 23",
+      "textCondensed": "8287_w15_ms_23",
+      "folder": "2015 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8287_w15_qp_11.pdf",
+      "text": "November 2015 Question Paper 11",
+      "textCondensed": "8287_w15_qp_11",
+      "folder": "2015 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8287_w15_qp_21.pdf",
+      "text": "November 2015 Question Paper 21",
+      "textCondensed": "8287_w15_qp_21",
+      "folder": "2015 Nov"
+    }
+  ]
+}

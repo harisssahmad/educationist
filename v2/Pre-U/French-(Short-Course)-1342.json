@@ -1,0 +1,86 @@
+{
+  "board": "Pre-U",
+  "subject": "French-(Short-Course)-1342",
+  "total_papers": 13,
+  "scraped_at": "2025-06-18 01:41:58",
+  "papers": [
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1342_s17_er.pdf",
+      "text": "June 2017 Examiner Reports",
+      "textCondensed": "1342_s17_er",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1342_s17_gt.pdf",
+      "text": "June 2017 Grade Threshold",
+      "textCondensed": "1342_s17_gt",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1342_s17_in_2.pdf",
+      "text": "June 2017 Insert 2",
+      "textCondensed": "1342_s17_in_2",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1342_s17_ms_1.pdf",
+      "text": "June 2017 Mark Scheme 1",
+      "textCondensed": "1342_s17_ms_1",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1342_s17_ms_2.pdf",
+      "text": "June 2017 Mark Scheme 2",
+      "textCondensed": "1342_s17_ms_2",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1342_s17_qp_2.pdf",
+      "text": "June 2017 Question Paper 2",
+      "textCondensed": "1342_s17_qp_2",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1342_s17_qr_2.pdf",
+      "text": "1342_s17_qr_2.pdf",
+      "textCondensed": "1342_s17_qr_2",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1342_s18_gt.pdf",
+      "text": "June 2018 Grade Threshold",
+      "textCondensed": "1342_s18_gt",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1342_s18_in_02.pdf",
+      "text": "June 2018 Insert 02",
+      "textCondensed": "1342_s18_in_02",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1342_s18_ms_1.pdf",
+      "text": "June 2018 Mark Scheme 1",
+      "textCondensed": "1342_s18_ms_1",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1342_s18_ms_2.pdf",
+      "text": "June 2018 Mark Scheme 2",
+      "textCondensed": "1342_s18_ms_2",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1342_s18_qp_02.pdf",
+      "text": "June 2018 Question Paper 02",
+      "textCondensed": "1342_s18_qp_02",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1342_s18_qr_2.pdf",
+      "text": "1342_s18_qr_2.pdf",
+      "textCondensed": "1342_s18_qr_2",
+      "folder": "2018-May-June"
+    }
+  ]
+}

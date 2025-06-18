@@ -1,0 +1,80 @@
+{
+  "board": "AS and A Level",
+  "subject": "Nepal Studies - 8024",
+  "total_papers": 12,
+  "scraped_at": "2025-06-18 15:07:22",
+  "papers": [
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8024_s20_ms_1.pdf",
+      "text": "June 2020 Mark Scheme 1",
+      "textCondensed": "8024_s20_ms_1",
+      "folder": "May June 2020"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8024_s19_gt.pdf",
+      "text": "June 2019 Grade Threshold",
+      "textCondensed": "8024_s19_gt",
+      "folder": "2019-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8024_s19_ms_1.pdf",
+      "text": "June 2019 Mark Scheme 1",
+      "textCondensed": "8024_s19_ms_1",
+      "folder": "2019-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8024_s19_ms_2.pdf",
+      "text": "June 2019 Mark Scheme 2",
+      "textCondensed": "8024_s19_ms_2",
+      "folder": "2019-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8024_s19_qp_1.pdf",
+      "text": "June 2019 Question Paper 1",
+      "textCondensed": "8024_s19_qp_1",
+      "folder": "2019-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8024_s19_qp_2.pdf",
+      "text": "June 2019 Question Paper 2",
+      "textCondensed": "8024_s19_qp_2",
+      "folder": "2019-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8024_s18_er.pdf",
+      "text": "June 2018 Examiner Reports",
+      "textCondensed": "8024_s18_er",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8024_s18_gt.pdf",
+      "text": "June 2018 Grade Threshold",
+      "textCondensed": "8024_s18_gt",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8024_s18_ms_1.pdf",
+      "text": "June 2018 Mark Scheme 1",
+      "textCondensed": "8024_s18_ms_1",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8024_s18_ms_2.pdf",
+      "text": "June 2018 Mark Scheme 2",
+      "textCondensed": "8024_s18_ms_2",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8024_s18_qp_01.pdf",
+      "text": "June 2018 Question Paper 01",
+      "textCondensed": "8024_s18_qp_01",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8024_s18_qp_02.pdf",
+      "text": "June 2018 Question Paper 02",
+      "textCondensed": "8024_s18_qp_02",
+      "folder": "2018-May-June"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "board": "O Level",
+  "subject": "Hindi (3195)",
+  "total_papers": 27,
+  "scraped_at": "2025-06-18 05:09:29",
+  "papers": [
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w11_qp_1.pdf",
+      "text": "November 2011 Question Paper 1",
+      "textCondensed": "3195_w11_qp_1",
+      "folder": "2011 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w11_qp_2.pdf",
+      "text": "November 2011 Question Paper 2",
+      "textCondensed": "3195_w11_qp_2",
+      "folder": "2011 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w10_er.pdf",
+      "text": "November 2010 Examiner Reports",
+      "textCondensed": "3195_w10_er",
+      "folder": "2010 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w10_qp_1.pdf",
+      "text": "November 2010 Question Paper 1",
+      "textCondensed": "3195_w10_qp_1",
+      "folder": "2010 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w10_qp_2.pdf",
+      "text": "November 2010 Question Paper 2",
+      "textCondensed": "3195_w10_qp_2",
+      "folder": "2010 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w09_er.pdf",
+      "text": "November 2009 Examiner Reports",
+      "textCondensed": "3195_w09_er",
+      "folder": "2009 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w09_qp_1.pdf",
+      "text": "November 2009 Question Paper 1",
+      "textCondensed": "3195_w09_qp_1",
+      "folder": "2009 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w09_qp_2.pdf",
+      "text": "November 2009 Question Paper 2",
+      "textCondensed": "3195_w09_qp_2",
+      "folder": "2009 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w08_er.pdf",
+      "text": "November 2008 Examiner Reports",
+      "textCondensed": "3195_w08_er",
+      "folder": "2008 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w08_qp_1.pdf",
+      "text": "November 2008 Question Paper 1",
+      "textCondensed": "3195_w08_qp_1",
+      "folder": "2008 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w08_qp_2.pdf",
+      "text": "November 2008 Question Paper 2",
+      "textCondensed": "3195_w08_qp_2",
+      "folder": "2008 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w07_er.pdf",
+      "text": "November 2007 Examiner Reports",
+      "textCondensed": "3195_w07_er",
+      "folder": "2007 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w07_qp_1.pdf",
+      "text": "November 2007 Question Paper 1",
+      "textCondensed": "3195_w07_qp_1",
+      "folder": "2007 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w07_qp_2.pdf",
+      "text": "November 2007 Question Paper 2",
+      "textCondensed": "3195_w07_qp_2",
+      "folder": "2007 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w06_er.pdf",
+      "text": "November 2006 Examiner Reports",
+      "textCondensed": "3195_w06_er",
+      "folder": "2006 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w06_qp_1.pdf",
+      "text": "November 2006 Question Paper 1",
+      "textCondensed": "3195_w06_qp_1",
+      "folder": "2006 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w06_qp_2.pdf",
+      "text": "November 2006 Question Paper 2",
+      "textCondensed": "3195_w06_qp_2",
+      "folder": "2006 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w05_er.pdf",
+      "text": "November 2005 Examiner Reports",
+      "textCondensed": "3195_w05_er",
+      "folder": "2005 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w05_qp_1.pdf",
+      "text": "November 2005 Question Paper 1",
+      "textCondensed": "3195_w05_qp_1",
+      "folder": "2005 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w05_qp_2.pdf",
+      "text": "November 2005 Question Paper 2",
+      "textCondensed": "3195_w05_qp_2",
+      "folder": "2005 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w04_er.pdf",
+      "text": "November 2004 Examiner Reports",
+      "textCondensed": "3195_w04_er",
+      "folder": "2004 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w04_qp_1.pdf",
+      "text": "November 2004 Question Paper 1",
+      "textCondensed": "3195_w04_qp_1",
+      "folder": "2004 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w04_qp_2.pdf",
+      "text": "November 2004 Question Paper 2",
+      "textCondensed": "3195_w04_qp_2",
+      "folder": "2004 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w03_qp_1.pdf",
+      "text": "November 2003 Question Paper 1",
+      "textCondensed": "3195_w03_qp_1",
+      "folder": "2003 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w03_qp_2.pdf",
+      "text": "November 2003 Question Paper 2",
+      "textCondensed": "3195_w03_qp_2",
+      "folder": "2003 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w02_qp_1.pdf",
+      "text": "November 2002 Question Paper 1",
+      "textCondensed": "3195_w02_qp_1",
+      "folder": "2002 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3195_w02_qp_2.pdf",
+      "text": "November 2002 Question Paper 2",
+      "textCondensed": "3195_w02_qp_2",
+      "folder": "2002 Nov"
+    }
+  ]
+}

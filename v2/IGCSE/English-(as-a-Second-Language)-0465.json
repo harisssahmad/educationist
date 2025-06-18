@@ -1,0 +1,38 @@
+{
+  "board": "IGCSE",
+  "subject": "English (as a Second Language)-0465",
+  "total_papers": 5,
+  "scraped_at": "2025-06-18 08:39:07",
+  "papers": [
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0465_s24_ms_1.pdf",
+      "text": "June 2024 Mark Scheme 1",
+      "textCondensed": "0465_s24_ms_1",
+      "folder": "2024-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0465_s24_ms_2.pdf",
+      "text": "June 2024 Mark Scheme 2",
+      "textCondensed": "0465_s24_ms_2",
+      "folder": "2024-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0465_s24_qp_01.pdf",
+      "text": "June 2024 Question Paper 01",
+      "textCondensed": "0465_s24_qp_01",
+      "folder": "2024-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0465_s24_qp_02.pdf",
+      "text": "June 2024 Question Paper 02",
+      "textCondensed": "0465_s24_qp_02",
+      "folder": "2024-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0465_s24_qr_2.pdf",
+      "text": "0465_s24_qr_2.pdf",
+      "textCondensed": "0465_s24_qr_2",
+      "folder": "2024-May-June"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "board": "AS and A Level",
+  "subject": "Spanish - 8278",
+  "total_papers": 2,
+  "scraped_at": "2025-06-18 15:33:09",
+  "papers": [
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9686_w14_qp_3.pdf",
+      "text": "November 2014 Question Paper 3",
+      "textCondensed": "9686_w14_qp_3",
+      "folder": "2014 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9686_w14_qp_4.pdf",
+      "text": "November 2014 Question Paper 4",
+      "textCondensed": "9686_w14_qp_4",
+      "folder": "2014 Nov"
+    }
+  ]
+}

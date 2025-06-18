@@ -1,0 +1,152 @@
+{
+  "subjects": [
+    {
+      "name": "Art-And-Design",
+      "code": "9837"
+    },
+    {
+      "name": "Art-History",
+      "code": "9799"
+    },
+    {
+      "name": "Biology",
+      "code": "9790"
+    },
+    {
+      "name": "Business-And-Management",
+      "code": "9771"
+    },
+    {
+      "name": "Chemistry",
+      "code": "9791"
+    },
+    {
+      "name": "Classical-Greek",
+      "code": "9787"
+    },
+    {
+      "name": "Classical-Heritage",
+      "code": "9786"
+    },
+    {
+      "name": "Comparative-Government-And-Politics",
+      "code": "9770"
+    },
+    {
+      "name": "Drama-And-Theatre",
+      "code": "9801"
+    },
+    {
+      "name": "Economics",
+      "code": "9772"
+    },
+    {
+      "name": "English",
+      "code": "9765"
+    },
+    {
+      "name": "French",
+      "code": "9779"
+    },
+    {
+      "name": "French-(Short-Course)",
+      "code": "1342"
+    },
+    {
+      "name": "Further-Mathematics",
+      "code": "9795"
+    },
+    {
+      "name": "Further-Mathematics-(Short-Course)",
+      "code": "1348"
+    },
+    {
+      "name": "Geography",
+      "code": "9768"
+    },
+    {
+      "name": "German",
+      "code": "9780"
+    },
+    {
+      "name": "German-(Short-Course)",
+      "code": "1343"
+    },
+    {
+      "name": "Global-Perspectives-And-Research",
+      "code": "9766"
+    },
+    {
+      "name": "Global-Perspectives-And-Research",
+      "code": "9777"
+    },
+    {
+      "name": "Global-Perspesctives-(Short-Course)-(UK-Only)",
+      "code": "1340"
+    },
+    {
+      "name": "History",
+      "code": "9769"
+    },
+    {
+      "name": "Italian",
+      "code": "9783"
+    },
+    {
+      "name": "Italian-(Short-Course)",
+      "code": "1346"
+    },
+    {
+      "name": "Latin",
+      "code": "9788"
+    },
+    {
+      "name": "Mandarin-Chinese",
+      "code": "9778"
+    },
+    {
+      "name": "Mandarin-Chinese-(Short-Course)",
+      "code": "1341"
+    },
+    {
+      "name": "Mathematics",
+      "code": "9794"
+    },
+    {
+      "name": "Mathematics-(Statistics-With-Pure-Mathematics)-(Short-Course)",
+      "code": "1347"
+    },
+    {
+      "name": "Music",
+      "code": "9800"
+    },
+    {
+      "name": "Philosophy-And-Theology",
+      "code": "9774"
+    },
+    {
+      "name": "Physics",
+      "code": "9792"
+    },
+    {
+      "name": "Psychology",
+      "code": "9773"
+    },
+    {
+      "name": "Russian",
+      "code": "9782"
+    },
+    {
+      "name": "Russian-(Short-Course)",
+      "code": "1345"
+    },
+    {
+      "name": "Spanish",
+      "code": "9781"
+    },
+    {
+      "name": "Spanish-(Short-Course)",
+      "code": "1344"
+    }
+  ]
+}

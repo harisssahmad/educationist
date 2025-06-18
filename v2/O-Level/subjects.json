@@ -1,0 +1,220 @@
+{
+  "subjects": [
+    {
+      "name": "Accounting",
+      "code": "7707"
+    },
+    {
+      "name": "Agriculture",
+      "code": "5038"
+    },
+    {
+      "name": "Arabic",
+      "code": "3180"
+    },
+    {
+      "name": "Art",
+      "code": "6010"
+    },
+    {
+      "name": "Art and Design",
+      "code": "6090"
+    },
+    {
+      "name": "Bangladesh Studies",
+      "code": "7094"
+    },
+    {
+      "name": "Bengali",
+      "code": "3204"
+    },
+    {
+      "name": "Biblical Studies",
+      "code": "2035"
+    },
+    {
+      "name": "Biology",
+      "code": "5090"
+    },
+    {
+      "name": "Business Studies",
+      "code": "7115"
+    },
+    {
+      "name": "CDT Design and Communication",
+      "code": "7048"
+    },
+    {
+      "name": "Chemistry",
+      "code": "5070"
+    },
+    {
+      "name": "Commerce",
+      "code": "7100"
+    },
+    {
+      "name": "Commercial Studies",
+      "code": "7101"
+    },
+    {
+      "name": "Computer Science",
+      "code": "2210"
+    },
+    {
+      "name": "Computer Studies",
+      "code": "7010"
+    },
+    {
+      "name": "Design and Communication",
+      "code": "7048"
+    },
+    {
+      "name": "Design and Technology",
+      "code": "6043"
+    },
+    {
+      "name": "French",
+      "code": "3015"
+    },
+    {
+      "name": "Geography",
+      "code": "2217"
+    },
+    {
+      "name": "German",
+      "code": "3025"
+    },
+    {
+      "name": "Global Perspectives",
+      "code": "2069"
+    },
+    {
+      "name": "Hindi",
+      "code": "3195"
+    },
+    {
+      "name": "Hinduism",
+      "code": "2055"
+    },
+    {
+      "name": "History",
+      "code": "2147"
+    },
+    {
+      "name": "History (Modern World Affairs)",
+      "code": "2134"
+    },
+    {
+      "name": "History World Affairs,",
+      "code": "1917"
+    },
+    {
+      "name": "History World Affairs,",
+      "code": "1991"
+    },
+    {
+      "name": "History World Affairs,",
+      "code": "2158"
+    },
+    {
+      "name": "Human and Social Biology",
+      "code": "5096"
+    },
+    {
+      "name": "Islamic Religion and Culture",
+      "code": "2056"
+    },
+    {
+      "name": "Islamic-Studies",
+      "code": "2068"
+    },
+    {
+      "name": "Islamiyat",
+      "code": "2058"
+    },
+    {
+      "name": "Literature in English",
+      "code": "2010"
+    },
+    {
+      "name": "Marine Science",
+      "code": "5180"
+    },
+    {
+      "name": "Mathematics - Additional",
+      "code": "4037"
+    },
+    {
+      "name": "Mathematics D (Calculator Version)",
+      "code": "4024"
+    },
+    {
+      "name": "Nepali",
+      "code": "3202"
+    },
+    {
+      "name": "Pakistan Studies",
+      "code": "2059"
+    },
+    {
+      "name": "Physics",
+      "code": "5054"
+    },
+    {
+      "name": "Principles of Accounts",
+      "code": "7110"
+    },
+    {
+      "name": "Religious Studies",
+      "code": "2048"
+    },
+    {
+      "name": "Science - Combined",
+      "code": "5129"
+    },
+    {
+      "name": "Setswana",
+      "code": "3158"
+    },
+    {
+      "name": "Sinhala",
+      "code": "3205"
+    },
+    {
+      "name": "Sociology",
+      "code": "2251"
+    },
+    {
+      "name": "Spanish",
+      "code": "3035"
+    },
+    {
+      "name": "Statistics",
+      "code": "4040"
+    },
+    {
+      "name": "Swahili",
+      "code": "3162"
+    },
+    {
+      "name": "Tamil",
+      "code": "3206"
+    },
+    {
+      "name": "Tamil",
+      "code": "3226"
+    },
+    {
+      "name": "Travel and Tourism",
+      "code": "7096"
+    },
+    {
+      "name": "Urdu",
+      "code": "3247"
+    },
+    {
+      "name": "Urdu",
+      "code": "3248"
+    }
+  ]
+}

@@ -1,14 +1,134 @@
 {
   "board": "AS and A Level",
   "subject": "Sport & Physical Education-8386",
-  "total_papers": 14,
-  "scraped_at": "2025-06-18 01:04:59",
+  "total_papers": 35,
+  "scraped_at": "2026-10-08 01:22:20",
   "papers": [
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_w24_gt.pdf",
-      "text": "November 2024 Grade Threshold",
-      "textCondensed": "8386_w24_gt",
-      "folder": "2024-Oct-Nov"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_s26_ms_11.pdf",
+      "text": "June 2026 Mark Scheme 11",
+      "textCondensed": "8386_s26_ms_11",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_s26_ms_12.pdf",
+      "text": "June 2026 Mark Scheme 12",
+      "textCondensed": "8386_s26_ms_12",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_s26_ms_13.pdf",
+      "text": "June 2026 Mark Scheme 13",
+      "textCondensed": "8386_s26_ms_13",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_s26_qp_11.pdf",
+      "text": "June 2026 Question Paper 11",
+      "textCondensed": "8386_s26_qp_11",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_s26_qp_12.pdf",
+      "text": "June 2026 Question Paper 12",
+      "textCondensed": "8386_s26_qp_12",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_s26_qp_13.pdf",
+      "text": "June 2026 Question Paper 13",
+      "textCondensed": "8386_s26_qp_13",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_s26_gt.pdf",
+      "text": "June 2026 Grade Threshold",
+      "textCondensed": "8386_s26_gt",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_w25_ms_11.pdf",
+      "text": "November 2025 Mark Scheme 11",
+      "textCondensed": "8386_w25_ms_11",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_w25_ms_12.pdf",
+      "text": "November 2025 Mark Scheme 12",
+      "textCondensed": "8386_w25_ms_12",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_w25_ms_13.pdf",
+      "text": "November 2025 Mark Scheme 13",
+      "textCondensed": "8386_w25_ms_13",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_w25_qp_11.pdf",
+      "text": "November 2025 Question Paper 11",
+      "textCondensed": "8386_w25_qp_11",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_w25_qp_12.pdf",
+      "text": "November 2025 Question Paper 12",
+      "textCondensed": "8386_w25_qp_12",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_w25_qp_13.pdf",
+      "text": "November 2025 Question Paper 13",
+      "textCondensed": "8386_w25_qp_13",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_w25_gt.pdf",
+      "text": "November 2025 Grade Threshold",
+      "textCondensed": "8386_w25_gt",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_s25_ms_11.pdf",
+      "text": "June 2025 Mark Scheme 11",
+      "textCondensed": "8386_s25_ms_11",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_s25_ms_12.pdf",
+      "text": "June 2025 Mark Scheme 12",
+      "textCondensed": "8386_s25_ms_12",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_s25_ms_13.pdf",
+      "text": "June 2025 Mark Scheme 13",
+      "textCondensed": "8386_s25_ms_13",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_s25_qp_11.pdf",
+      "text": "June 2025 Question Paper 11",
+      "textCondensed": "8386_s25_qp_11",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_s25_qp_12.pdf",
+      "text": "June 2025 Question Paper 12",
+      "textCondensed": "8386_s25_qp_12",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_s25_qp_13.pdf",
+      "text": "June 2025 Question Paper 13",
+      "textCondensed": "8386_s25_qp_13",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_s25_gt.pdf",
+      "text": "June 2025 Grade Threshold",
+      "textCondensed": "8386_s25_gt",
+      "folder": "2025-May-June"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_w24_ms_11.pdf",
@@ -47,10 +167,10 @@
       "folder": "2024-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_s24_gt.pdf",
-      "text": "June 2024 Grade Threshold",
-      "textCondensed": "8386_s24_gt",
-      "folder": "2024-May-June"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_w24_gt.pdf",
+      "text": "November 2024 Grade Threshold",
+      "textCondensed": "8386_w24_gt",
+      "folder": "2024-Oct-Nov"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_s24_ms_11.pdf",
@@ -86,6 +206,12 @@
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_s24_qp_13.pdf",
       "text": "June 2024 Question Paper 13",
       "textCondensed": "8386_s24_qp_13",
+      "folder": "2024-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8386_s24_gt.pdf",
+      "text": "June 2024 Grade Threshold",
+      "textCondensed": "8386_s24_gt",
       "folder": "2024-May-June"
     }
   ]

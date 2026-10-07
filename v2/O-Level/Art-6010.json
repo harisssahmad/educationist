@@ -1,27 +1,9 @@
 {
   "board": "O Level",
   "subject": "Art (6010)",
-  "total_papers": 170,
+  "total_papers": 167,
   "scraped_at": "2025-06-18 02:17:25",
   "papers": [
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3180_w17_gt.pdf",
-      "text": "November 2017 Grade Threshold",
-      "textCondensed": "3180_w17_gt",
-      "folder": "2017 Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3180_w17_qp_1.pdf",
-      "text": "November 2017 Question Paper 1",
-      "textCondensed": "3180_w17_qp_1",
-      "folder": "2017 Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/3180_w17_qp_2.pdf",
-      "text": "November 2017 Question Paper 2",
-      "textCondensed": "3180_w17_qp_2",
-      "folder": "2017 Nov"
-    },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/6010_w13_er.pdf",
       "text": "November 2013 Examiner Reports",

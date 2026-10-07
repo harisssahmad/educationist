@@ -5,12 +5,6 @@
   "scraped_at": "2025-06-18 10:24:05",
   "papers": [
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0626_w19_gt.pdf",
-      "text": "November 2019 Grade Threshold",
-      "textCondensed": "0626_w19_gt",
-      "folder": "2019-Oct-Nov"
-    },
-    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0626_w19_ms_1.pdf",
       "text": "November 2019 Mark Scheme 1",
       "textCondensed": "0626_w19_ms_1",
@@ -83,10 +77,10 @@
       "folder": "2019-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0626_w18_gt.pdf",
-      "text": "November 2018 Grade Threshold",
-      "textCondensed": "0626_w18_gt",
-      "folder": "2018-Oct-Nov"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0626_w19_gt.pdf",
+      "text": "November 2019 Grade Threshold",
+      "textCondensed": "0626_w19_gt",
+      "folder": "2019-Oct-Nov"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0626_w18_ms_1.pdf",
@@ -161,10 +155,10 @@
       "folder": "2018-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0626_s18_gt.pdf",
-      "text": "June 2018 Grade Threshold",
-      "textCondensed": "0626_s18_gt",
-      "folder": "2018-May-June"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0626_w18_gt.pdf",
+      "text": "November 2018 Grade Threshold",
+      "textCondensed": "0626_w18_gt",
+      "folder": "2018-Oct-Nov"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0626_s18_ms_1.pdf",
@@ -236,6 +230,12 @@
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0626_s18_qp_06.pdf",
       "text": "June 2018 Question Paper 06",
       "textCondensed": "0626_s18_qp_06",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/0626_s18_gt.pdf",
+      "text": "June 2018 Grade Threshold",
+      "textCondensed": "0626_s18_gt",
       "folder": "2018-May-June"
     }
   ]

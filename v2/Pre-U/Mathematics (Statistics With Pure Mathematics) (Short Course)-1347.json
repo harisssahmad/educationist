@@ -11,12 +11,6 @@
       "folder": "2017-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1347_s17_gt.pdf",
-      "text": "June 2017 Grade Threshold",
-      "textCondensed": "1347_s17_gt",
-      "folder": "2017-May-June"
-    },
-    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1347_s17_ms_1.pdf",
       "text": "June 2017 Mark Scheme 1",
       "textCondensed": "1347_s17_ms_1",
@@ -41,15 +35,15 @@
       "folder": "2017-May-June"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1347_s17_gt.pdf",
+      "text": "June 2017 Grade Threshold",
+      "textCondensed": "1347_s17_gt",
+      "folder": "2017-May-June"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1347_s13_er.pdf",
       "text": "June 2013 Examiner Reports",
       "textCondensed": "1347_s13_er",
-      "folder": "2013-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1347_s13_gt.pdf",
-      "text": "June 2013 Grade Threshold",
-      "textCondensed": "1347_s13_gt",
       "folder": "2013-May-June"
     },
     {
@@ -74,6 +68,12 @@
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1347_s13_qp_2.pdf",
       "text": "June 2013 Question Paper 2",
       "textCondensed": "1347_s13_qp_2",
+      "folder": "2013-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/1347_s13_gt.pdf",
+      "text": "June 2013 Grade Threshold",
+      "textCondensed": "1347_s13_gt",
       "folder": "2013-May-June"
     }
   ]

@@ -5,18 +5,6 @@
   "scraped_at": "2025-06-18 14:44:17",
   "papers": [
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8688_w16_gt.pdf",
-      "text": "November 2016 Grade Threshold",
-      "textCondensed": "8688_w16_gt",
-      "folder": "2016 Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8688_w16_in_2.pdf",
-      "text": "November 2016 Insert 2",
-      "textCondensed": "8688_w16_in_2",
-      "folder": "2016 Nov"
-    },
-    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8688_w16_qp_2.pdf",
       "text": "November 2016 Question Paper 2",
       "textCondensed": "8688_w16_qp_2",
@@ -29,16 +17,16 @@
       "folder": "2016 Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8688_w15_gt.pdf",
-      "text": "November 2015 Grade Threshold",
-      "textCondensed": "8688_w15_gt",
-      "folder": "2015 Nov"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8688_w16_in_2.pdf",
+      "text": "November 2016 Insert 2",
+      "textCondensed": "8688_w16_in_2",
+      "folder": "2016 Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8688_w15_in_2.pdf",
-      "text": "November 2015 Insert 2",
-      "textCondensed": "8688_w15_in_2",
-      "folder": "2015 Nov"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8688_w16_gt.pdf",
+      "text": "November 2016 Grade Threshold",
+      "textCondensed": "8688_w16_gt",
+      "folder": "2016 Nov"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8688_w15_qp_2.pdf",
@@ -53,15 +41,21 @@
       "folder": "2015 Nov"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8688_w15_in_2.pdf",
+      "text": "November 2015 Insert 2",
+      "textCondensed": "8688_w15_in_2",
+      "folder": "2015 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8688_w15_gt.pdf",
+      "text": "November 2015 Grade Threshold",
+      "textCondensed": "8688_w15_gt",
+      "folder": "2015 Nov"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8688_w14_er.pdf",
       "text": "November 2014 Examiner Reports",
       "textCondensed": "8688_w14_er",
-      "folder": "2014 Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8688_w14_gt.pdf",
-      "text": "November 2014 Grade Threshold",
-      "textCondensed": "8688_w14_gt",
       "folder": "2014 Nov"
     },
     {
@@ -74,6 +68,12 @@
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8688_w14_qp_3.pdf",
       "text": "November 2014 Question Paper 3",
       "textCondensed": "8688_w14_qp_3",
+      "folder": "2014 Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/8688_w14_gt.pdf",
+      "text": "November 2014 Grade Threshold",
+      "textCondensed": "8688_w14_gt",
       "folder": "2014 Nov"
     },
     {

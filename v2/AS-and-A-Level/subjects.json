@@ -30,11 +30,11 @@
     },
     {
       "name": "Art and Design",
-      "code": "9704"
+      "code": "9479"
     },
     {
       "name": "Art and Design",
-      "code": "9479"
+      "code": "9704"
     },
     {
       "name": "Biblical Studies",
@@ -98,10 +98,6 @@
     },
     {
       "name": "Computer Science - for first examination in 2021",
-      "code": "2021"
-    },
-    {
-      "name": "Computer Science - for first examination in 2021",
       "code": "9618"
     },
     {
@@ -153,16 +149,16 @@
       "code": "9093"
     },
     {
+      "name": "English General Paper",
+      "code": "8021"
+    },
+    {
       "name": "English Literature",
       "code": "9276"
     },
     {
       "name": "English Literature",
       "code": "9695"
-    },
-    {
-      "name": "English General Paper",
-      "code": "8021"
     },
     {
       "name": "Environmental Management",
@@ -179,6 +175,14 @@
     {
       "name": "French",
       "code": "9716"
+    },
+    {
+      "name": "French Language & Literature",
+      "code": "9898"
+    },
+    {
+      "name": "French Language AS Level only",
+      "code": "8028"
     },
     {
       "name": "French Literature",
@@ -198,11 +202,19 @@
     },
     {
       "name": "German",
+      "code": "8027"
+    },
+    {
+      "name": "German",
       "code": "8683"
     },
     {
       "name": "German",
       "code": "9717"
+    },
+    {
+      "name": "German Language & Literature",
+      "code": "9897"
     },
     {
       "name": "Global Perspectives",
@@ -306,15 +318,11 @@
     },
     {
       "name": "Music",
-      "code": "8663"
-    },
-    {
-      "name": "Music",
       "code": "9483"
     },
     {
       "name": "Music",
-      "code": "9703"
+      "code": "9703 and 8663"
     },
     {
       "name": "Nepal Studies",

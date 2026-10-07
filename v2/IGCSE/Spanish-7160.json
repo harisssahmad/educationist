@@ -1,13 +1,211 @@
 {
   "board": "IGCSE",
   "subject": "Spanish - 7160",
-  "total_papers": 118,
-  "scraped_at": "2025-06-18 11:24:46",
+  "total_papers": 149,
+  "scraped_at": "2026-10-08 01:52:46",
   "papers": [
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w24_gt.pdf",
-      "text": "November 2024 Grade Threshold",
-      "textCondensed": "7160_w24_gt",
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s26_rp_03.pdf",
+      "text": "Summer 2026 Roleplay 03",
+      "textCondensed": "7160_s26_rp_03",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s26_tn_03.pdf",
+      "text": "Summer 2026 Teacher's Notes 03",
+      "textCondensed": "7160_s26_tn_03",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s26_qr_12.pdf",
+      "text": "Summer 2026 Listening (QR) 12",
+      "textCondensed": "7160_s26_qr_12",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s26_ms_12.pdf",
+      "text": "June 2026 Mark Scheme 12",
+      "textCondensed": "7160_s26_ms_12",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s26_ms_22.pdf",
+      "text": "June 2026 Mark Scheme 22",
+      "textCondensed": "7160_s26_ms_22",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s26_ms_42.pdf",
+      "text": "June 2026 Mark Scheme 42",
+      "textCondensed": "7160_s26_ms_42",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s26_qp_12.pdf",
+      "text": "June 2026 Question Paper 12",
+      "textCondensed": "7160_s26_qp_12",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s26_qp_22.pdf",
+      "text": "June 2026 Question Paper 22",
+      "textCondensed": "7160_s26_qp_22",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s26_qp_42.pdf",
+      "text": "June 2026 Question Paper 42",
+      "textCondensed": "7160_s26_qp_42",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s26_gt.pdf",
+      "text": "June 2026 Grade Threshold",
+      "textCondensed": "7160_s26_gt",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w25_rp_03.pdf",
+      "text": "Winter 2025 Roleplay 03",
+      "textCondensed": "7160_w25_rp_03",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w25_tn_03.pdf",
+      "text": "Winter 2025 Teacher's Notes 03",
+      "textCondensed": "7160_w25_tn_03",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w25_qr_11.pdf",
+      "text": "Winter 2025 Listening (QR) 11",
+      "textCondensed": "7160_w25_qr_11",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w25_ms_11.pdf",
+      "text": "November 2025 Mark Scheme 11",
+      "textCondensed": "7160_w25_ms_11",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w25_ms_21.pdf",
+      "text": "November 2025 Mark Scheme 21",
+      "textCondensed": "7160_w25_ms_21",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w25_ms_41.pdf",
+      "text": "November 2025 Mark Scheme 41",
+      "textCondensed": "7160_w25_ms_41",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w25_qp_11.pdf",
+      "text": "November 2025 Question Paper 11",
+      "textCondensed": "7160_w25_qp_11",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w25_qp_21.pdf",
+      "text": "November 2025 Question Paper 21",
+      "textCondensed": "7160_w25_qp_21",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w25_qp_41.pdf",
+      "text": "November 2025 Question Paper 41",
+      "textCondensed": "7160_w25_qp_41",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w25_gt.pdf",
+      "text": "November 2025 Grade Threshold",
+      "textCondensed": "7160_w25_gt",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s25_rp_03.pdf",
+      "text": "Summer 2025 Roleplay 03",
+      "textCondensed": "7160_s25_rp_03",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s25_tn_03.pdf",
+      "text": "Summer 2025 Teacher's Notes 03",
+      "textCondensed": "7160_s25_tn_03",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s25_qr_12.pdf",
+      "text": "Summer 2025 Listening (QR) 12",
+      "textCondensed": "7160_s25_qr_12",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s25_er.pdf",
+      "text": "June 2025 Examiner Reports",
+      "textCondensed": "7160_s25_er",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s25_ms_12.pdf",
+      "text": "June 2025 Mark Scheme 12",
+      "textCondensed": "7160_s25_ms_12",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s25_ms_22.pdf",
+      "text": "June 2025 Mark Scheme 22",
+      "textCondensed": "7160_s25_ms_22",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s25_ms_42.pdf",
+      "text": "June 2025 Mark Scheme 42",
+      "textCondensed": "7160_s25_ms_42",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s25_qp_12.pdf",
+      "text": "June 2025 Question Paper 12",
+      "textCondensed": "7160_s25_qp_12",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s25_qp_22.pdf",
+      "text": "June 2025 Question Paper 22",
+      "textCondensed": "7160_s25_qp_22",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s25_qp_42.pdf",
+      "text": "June 2025 Question Paper 42",
+      "textCondensed": "7160_s25_qp_42",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s25_gt.pdf",
+      "text": "June 2025 Grade Threshold",
+      "textCondensed": "7160_s25_gt",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w24_rp_03.pdf",
+      "text": "Winter 2024 Roleplay 03",
+      "textCondensed": "7160_w24_rp_03",
+      "folder": "2024-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w24_tn_03.pdf",
+      "text": "Winter 2024 Teacher's Notes 03",
+      "textCondensed": "7160_w24_tn_03",
+      "folder": "2024-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w24_qr_11.pdf",
+      "text": "Winter 2024 Listening (QR) 11",
+      "textCondensed": "7160_w24_qr_11",
       "folder": "2024-Oct-Nov"
     },
     {
@@ -47,27 +245,27 @@
       "folder": "2024-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w24_qr_11.pdf",
-      "text": "7160_w24_qr_11.pdf",
-      "textCondensed": "7160_w24_qr_11",
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w24_gt.pdf",
+      "text": "November 2024 Grade Threshold",
+      "textCondensed": "7160_w24_gt",
       "folder": "2024-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w24_rp_03.pdf",
-      "text": "7160_w24_rp_03.pdf",
-      "textCondensed": "7160_w24_rp_03",
-      "folder": "2024-Oct-Nov"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s24_rp_03.pdf",
+      "text": "Summer 2024 Roleplay 03",
+      "textCondensed": "7160_s24_rp_03",
+      "folder": "2024-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w24_tn_03.pdf",
-      "text": "7160_w24_tn_03.pdf",
-      "textCondensed": "7160_w24_tn_03",
-      "folder": "2024-Oct-Nov"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s24_tn_03.pdf",
+      "text": "Summer 2024 Teacher's Notes 03",
+      "textCondensed": "7160_s24_tn_03",
+      "folder": "2024-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s24_gt.pdf",
-      "text": "June 2024 Grade Threshold",
-      "textCondensed": "7160_s24_gt",
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s24_qr_12.pdf",
+      "text": "Summer 2024 Listening (QR) 12",
+      "textCondensed": "7160_s24_qr_12",
       "folder": "2024-May-June"
     },
     {
@@ -107,33 +305,33 @@
       "folder": "2024-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s24_qr_12.pdf",
-      "text": "7160_s24_qr_12.pdf",
-      "textCondensed": "7160_s24_qr_12",
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s24_gt.pdf",
+      "text": "June 2024 Grade Threshold",
+      "textCondensed": "7160_s24_gt",
       "folder": "2024-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s24_rp_03.pdf",
-      "text": "7160_s24_rp_03.pdf",
-      "textCondensed": "7160_s24_rp_03",
-      "folder": "2024-May-June"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w23_rp_03.pdf",
+      "text": "Winter 2023 Roleplay 03",
+      "textCondensed": "7160_w23_rp_03",
+      "folder": "2023-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s24_tn_03.pdf",
-      "text": "7160_s24_tn_03.pdf",
-      "textCondensed": "7160_s24_tn_03",
-      "folder": "2024-May-June"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w23_tn_03.pdf",
+      "text": "Winter 2023 Teacher's Notes 03",
+      "textCondensed": "7160_w23_tn_03",
+      "folder": "2023-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w23_qr_11.pdf",
+      "text": "Winter 2023 Listening (QR) 11",
+      "textCondensed": "7160_w23_qr_11",
+      "folder": "2023-Oct-Nov"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w23_er.pdf",
       "text": "November 2023 Examiner Reports",
       "textCondensed": "7160_w23_er",
-      "folder": "2023-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w23_gt.pdf",
-      "text": "November 2023 Grade Threshold",
-      "textCondensed": "7160_w23_gt",
       "folder": "2023-Oct-Nov"
     },
     {
@@ -173,33 +371,33 @@
       "folder": "2023-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w23_qr_11.pdf",
-      "text": "7160_w23_qr_11.pdf",
-      "textCondensed": "7160_w23_qr_11",
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w23_gt.pdf",
+      "text": "November 2023 Grade Threshold",
+      "textCondensed": "7160_w23_gt",
       "folder": "2023-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w23_rp_03.pdf",
-      "text": "7160_w23_rp_03.pdf",
-      "textCondensed": "7160_w23_rp_03",
-      "folder": "2023-Oct-Nov"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s23_rp_03.pdf",
+      "text": "Summer 2023 Roleplay 03",
+      "textCondensed": "7160_s23_rp_03",
+      "folder": "2023-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w23_tn_03.pdf",
-      "text": "7160_w23_tn_03.pdf",
-      "textCondensed": "7160_w23_tn_03",
-      "folder": "2023-Oct-Nov"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s23_tn_03.pdf",
+      "text": "Summer 2023 Teacher's Notes 03",
+      "textCondensed": "7160_s23_tn_03",
+      "folder": "2023-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s23_qr_12.pdf",
+      "text": "Summer 2023 Listening (QR) 12",
+      "textCondensed": "7160_s23_qr_12",
+      "folder": "2023-May-June"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s23_er.pdf",
       "text": "June 2023 Examiner Reports",
       "textCondensed": "7160_s23_er",
-      "folder": "2023-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s23_gt.pdf",
-      "text": "June 2023 Grade Threshold",
-      "textCondensed": "7160_s23_gt",
       "folder": "2023-May-June"
     },
     {
@@ -239,33 +437,33 @@
       "folder": "2023-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s23_qr_12.pdf",
-      "text": "7160_s23_qr_12.pdf",
-      "textCondensed": "7160_s23_qr_12",
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s23_gt.pdf",
+      "text": "June 2023 Grade Threshold",
+      "textCondensed": "7160_s23_gt",
       "folder": "2023-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s23_rp_03.pdf",
-      "text": "7160_s23_rp_03.pdf",
-      "textCondensed": "7160_s23_rp_03",
-      "folder": "2023-May-June"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w22_rp_03.pdf",
+      "text": "Winter 2022 Roleplay 03",
+      "textCondensed": "7160_w22_rp_03",
+      "folder": "2022-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s23_tn_03.pdf",
-      "text": "7160_s23_tn_03.pdf",
-      "textCondensed": "7160_s23_tn_03",
-      "folder": "2023-May-June"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w22_tn_03.pdf",
+      "text": "Winter 2022 Teacher's Notes 03",
+      "textCondensed": "7160_w22_tn_03",
+      "folder": "2022-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w22_qr_11.pdf",
+      "text": "Winter 2022 Listening (QR) 11",
+      "textCondensed": "7160_w22_qr_11",
+      "folder": "2022-Oct-Nov"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w22_er.pdf",
       "text": "November 2022 Examiner Reports",
       "textCondensed": "7160_w22_er",
-      "folder": "2022-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w22_gt.pdf",
-      "text": "November 2022 Grade Threshold",
-      "textCondensed": "7160_w22_gt",
       "folder": "2022-Oct-Nov"
     },
     {
@@ -305,33 +503,33 @@
       "folder": "2022-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w22_qr_11.pdf",
-      "text": "7160_w22_qr_11.pdf",
-      "textCondensed": "7160_w22_qr_11",
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w22_gt.pdf",
+      "text": "November 2022 Grade Threshold",
+      "textCondensed": "7160_w22_gt",
       "folder": "2022-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w22_rp_03.pdf",
-      "text": "7160_w22_rp_03.pdf",
-      "textCondensed": "7160_w22_rp_03",
-      "folder": "2022-Oct-Nov"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s22_rp_03.pdf",
+      "text": "Summer 2022 Roleplay 03",
+      "textCondensed": "7160_s22_rp_03",
+      "folder": "2022-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w22_tn_03.pdf",
-      "text": "7160_w22_tn_03.pdf",
-      "textCondensed": "7160_w22_tn_03",
-      "folder": "2022-Oct-Nov"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s22_tn_03.pdf",
+      "text": "Summer 2022 Teacher's Notes 03",
+      "textCondensed": "7160_s22_tn_03",
+      "folder": "2022-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s22_qr_12.pdf",
+      "text": "Summer 2022 Listening (QR) 12",
+      "textCondensed": "7160_s22_qr_12",
+      "folder": "2022-May-June"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s22_er.pdf",
       "text": "June 2022 Examiner Reports",
       "textCondensed": "7160_s22_er",
-      "folder": "2022-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s22_gt.pdf",
-      "text": "June 2022 Grade Threshold",
-      "textCondensed": "7160_s22_gt",
       "folder": "2022-May-June"
     },
     {
@@ -371,33 +569,33 @@
       "folder": "2022-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s22_qr_12.pdf",
-      "text": "7160_s22_qr_12.pdf",
-      "textCondensed": "7160_s22_qr_12",
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s22_gt.pdf",
+      "text": "June 2022 Grade Threshold",
+      "textCondensed": "7160_s22_gt",
       "folder": "2022-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s22_rp_03.pdf",
-      "text": "7160_s22_rp_03.pdf",
-      "textCondensed": "7160_s22_rp_03",
-      "folder": "2022-May-June"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w21_rp_03.pdf",
+      "text": "Winter 2021 Roleplay 03",
+      "textCondensed": "7160_w21_rp_03",
+      "folder": "2021-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s22_tn_03.pdf",
-      "text": "7160_s22_tn_03.pdf",
-      "textCondensed": "7160_s22_tn_03",
-      "folder": "2022-May-June"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w21_tn_03.pdf",
+      "text": "Winter 2021 Teacher's Notes 03",
+      "textCondensed": "7160_w21_tn_03",
+      "folder": "2021-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w21_qr_11.pdf",
+      "text": "Winter 2021 Listening (QR) 11",
+      "textCondensed": "7160_w21_qr_11",
+      "folder": "2021-Oct-Nov"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w21_er.pdf",
       "text": "November 2021 Examiner Reports",
       "textCondensed": "7160_w21_er",
-      "folder": "2021-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w21_gt.pdf",
-      "text": "November 2021 Grade Threshold",
-      "textCondensed": "7160_w21_gt",
       "folder": "2021-Oct-Nov"
     },
     {
@@ -437,21 +635,9 @@
       "folder": "2021-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w21_qr_11.pdf",
-      "text": "7160_w21_qr_11.pdf",
-      "textCondensed": "7160_w21_qr_11",
-      "folder": "2021-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w21_rp_03.pdf",
-      "text": "7160_w21_rp_03.pdf",
-      "textCondensed": "7160_w21_rp_03",
-      "folder": "2021-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w21_tn_03.pdf",
-      "text": "7160_w21_tn_03.pdf",
-      "textCondensed": "7160_w21_tn_03",
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w21_gt.pdf",
+      "text": "November 2021 Grade Threshold",
+      "textCondensed": "7160_w21_gt",
       "folder": "2021-Oct-Nov"
     },
     {
@@ -461,15 +647,27 @@
       "folder": "2021 May June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w20_er.pdf",
-      "text": "November 2020 Examiner Reports",
-      "textCondensed": "7160_w20_er",
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w20_rp_03.pdf",
+      "text": "Winter 2020 Roleplay 03",
+      "textCondensed": "7160_w20_rp_03",
       "folder": "2020-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w20_gt.pdf",
-      "text": "November 2020 Grade Threshold",
-      "textCondensed": "7160_w20_gt",
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w20_tn_03.pdf",
+      "text": "Winter 2020 Teacher's Notes 03",
+      "textCondensed": "7160_w20_tn_03",
+      "folder": "2020-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w20_qr_11.pdf",
+      "text": "Winter 2020 Listening (QR) 11",
+      "textCondensed": "7160_w20_qr_11",
+      "folder": "2020-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w20_er.pdf",
+      "text": "November 2020 Examiner Reports",
+      "textCondensed": "7160_w20_er",
       "folder": "2020-Oct-Nov"
     },
     {
@@ -509,22 +707,28 @@
       "folder": "2020-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w20_qr_11.pdf",
-      "text": "7160_w20_qr_11.pdf",
-      "textCondensed": "7160_w20_qr_11",
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w20_gt.pdf",
+      "text": "November 2020 Grade Threshold",
+      "textCondensed": "7160_w20_gt",
       "folder": "2020-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w20_rp_03.pdf",
-      "text": "7160_w20_rp_03.pdf",
-      "textCondensed": "7160_w20_rp_03",
-      "folder": "2020-Oct-Nov"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s20_rp_03.pdf",
+      "text": "Summer 2020 Roleplay 03",
+      "textCondensed": "7160_s20_rp_03",
+      "folder": "2020-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w20_tn_03.pdf",
-      "text": "7160_w20_tn_03.pdf",
-      "textCondensed": "7160_w20_tn_03",
-      "folder": "2020-Oct-Nov"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s20_tn_03.pdf",
+      "text": "Summer 2020 Teacher's Notes 03",
+      "textCondensed": "7160_s20_tn_03",
+      "folder": "2020-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s20_qr_12.pdf",
+      "text": "Summer 2020 Listening (QR) 12",
+      "textCondensed": "7160_s20_qr_12",
+      "folder": "2020-May-June"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s20_ms_12.pdf",
@@ -563,33 +767,27 @@
       "folder": "2020-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s20_qr_12.pdf",
-      "text": "7160_s20_qr_12.pdf",
-      "textCondensed": "7160_s20_qr_12",
-      "folder": "2020-May-June"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w19_rp_3.pdf",
+      "text": "Winter 2019 Roleplay 3",
+      "textCondensed": "7160_w19_rp_3",
+      "folder": "2019-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s20_rp_03.pdf",
-      "text": "7160_s20_rp_03.pdf",
-      "textCondensed": "7160_s20_rp_03",
-      "folder": "2020-May-June"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w19_tn_3.pdf",
+      "text": "Winter 2019 Teacher's Notes 3",
+      "textCondensed": "7160_w19_tn_3",
+      "folder": "2019-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s20_tn_03.pdf",
-      "text": "7160_s20_tn_03.pdf",
-      "textCondensed": "7160_s20_tn_03",
-      "folder": "2020-May-June"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w19_qr_11.pdf",
+      "text": "Winter 2019 Listening (QR) 11",
+      "textCondensed": "7160_w19_qr_11",
+      "folder": "2019-Oct-Nov"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w19_er.pdf",
       "text": "November 2019 Examiner Reports",
       "textCondensed": "7160_w19_er",
-      "folder": "2019-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w19_gt.pdf",
-      "text": "November 2019 Grade Threshold",
-      "textCondensed": "7160_w19_gt",
       "folder": "2019-Oct-Nov"
     },
     {
@@ -629,33 +827,33 @@
       "folder": "2019-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w19_qr_11.pdf",
-      "text": "7160_w19_qr_11.pdf",
-      "textCondensed": "7160_w19_qr_11",
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w19_gt.pdf",
+      "text": "November 2019 Grade Threshold",
+      "textCondensed": "7160_w19_gt",
       "folder": "2019-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w19_rp_3.pdf",
-      "text": "7160_w19_rp_3.pdf",
-      "textCondensed": "7160_w19_rp_3",
-      "folder": "2019-Oct-Nov"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s19_rp_3.pdf",
+      "text": "Summer 2019 Roleplay 3",
+      "textCondensed": "7160_s19_rp_3",
+      "folder": "2019-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_w19_tn_3.pdf",
-      "text": "7160_w19_tn_3.pdf",
-      "textCondensed": "7160_w19_tn_3",
-      "folder": "2019-Oct-Nov"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s19_tn_3.pdf",
+      "text": "Summer 2019 Teacher's Notes 3",
+      "textCondensed": "7160_s19_tn_3",
+      "folder": "2019-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s19_qr_12.pdf",
+      "text": "Summer 2019 Listening (QR) 12",
+      "textCondensed": "7160_s19_qr_12",
+      "folder": "2019-May-June"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s19_er.pdf",
       "text": "June 2019 Examiner Reports",
       "textCondensed": "7160_s19_er",
-      "folder": "2019-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s19_gt.pdf",
-      "text": "June 2019 Grade Threshold",
-      "textCondensed": "7160_s19_gt",
       "folder": "2019-May-June"
     },
     {
@@ -695,21 +893,9 @@
       "folder": "2019-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s19_qr_12.pdf",
-      "text": "7160_s19_qr_12.pdf",
-      "textCondensed": "7160_s19_qr_12",
-      "folder": "2019-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s19_rp_3.pdf",
-      "text": "7160_s19_rp_3.pdf",
-      "textCondensed": "7160_s19_rp_3",
-      "folder": "2019-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s19_tn_3.pdf",
-      "text": "7160_s19_tn_3.pdf",
-      "textCondensed": "7160_s19_tn_3",
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7160_s19_gt.pdf",
+      "text": "June 2019 Grade Threshold",
+      "textCondensed": "7160_s19_gt",
       "folder": "2019-May-June"
     }
   ]

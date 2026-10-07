@@ -11,12 +11,6 @@
       "folder": "2014 Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/2158_w14_gt.pdf",
-      "text": "November 2014 Grade Threshold",
-      "textCondensed": "2158_w14_gt",
-      "folder": "2014 Nov"
-    },
-    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/2158_w14_ms_11.pdf",
       "text": "November 2014 Mark Scheme 11",
       "textCondensed": "2158_w14_ms_11",
@@ -41,15 +35,15 @@
       "folder": "2014 Nov"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/2158_w14_gt.pdf",
+      "text": "November 2014 Grade Threshold",
+      "textCondensed": "2158_w14_gt",
+      "folder": "2014 Nov"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/2158_s14_er.pdf",
       "text": "June 2014 Examiner Reports",
       "textCondensed": "2158_s14_er",
-      "folder": "2014 Jun"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/2158_s14_gt.pdf",
-      "text": "June 2014 Grade Threshold",
-      "textCondensed": "2158_s14_gt",
       "folder": "2014 Jun"
     },
     {
@@ -74,6 +68,12 @@
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/2158_s14_qp_13.pdf",
       "text": "June 2014 Question Paper 13",
       "textCondensed": "2158_s14_qp_13",
+      "folder": "2014 Jun"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/2158_s14_gt.pdf",
+      "text": "June 2014 Grade Threshold",
+      "textCondensed": "2158_s14_gt",
       "folder": "2014 Jun"
     },
     {
@@ -108,7 +108,7 @@
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/06_2158_12_2rp_afp_tss_version.pdf",
-      "text": "06_2158_12_2rp_afp_tss_version.pdf",
+      "text": "06_2158_12_2rp_afp_tss_version",
       "textCondensed": "06_2158_12_2rp_afp_tss_version",
       "folder": "2013 Jun"
     },

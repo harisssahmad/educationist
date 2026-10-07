@@ -33,6 +33,10 @@
       "code": "7184"
     },
     {
+      "name": "Arabic (UK)",
+      "code": "7180"
+    },
+    {
       "name": "Art and Design",
       "code": "0400"
     },
@@ -433,12 +437,12 @@
       "code": "0413"
     },
     {
-      "name": "Physical Science",
-      "code": "0652"
-    },
-    {
       "name": "Physical Education",
       "code": "0995"
+    },
+    {
+      "name": "Physical Science",
+      "code": "0652"
     },
     {
       "name": "Physics",
@@ -489,8 +493,16 @@
       "code": "0973"
     },
     {
+      "name": "Setswana - First Language",
+      "code": "0698"
+    },
+    {
       "name": "Sociology",
       "code": "0495"
+    },
+    {
+      "name": "Spanish",
+      "code": "0474"
     },
     {
       "name": "Spanish",
@@ -543,6 +555,10 @@
     {
       "name": "Urdu",
       "code": "0539"
+    },
+    {
+      "name": "Vietnamese - First Language",
+      "code": "0695"
     },
     {
       "name": "World Literature",

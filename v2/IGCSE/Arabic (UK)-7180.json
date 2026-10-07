@@ -1,0 +1,74 @@
+{
+  "board": "IGCSE",
+  "subject": "Arabic - 7180 - UK",
+  "total_papers": 11,
+  "scraped_at": "2026-10-08 02:01:08",
+  "papers": [
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7180_s26_ms_1.pdf",
+      "text": "June 2026 Mark Scheme 1",
+      "textCondensed": "7180_s26_ms_1",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7180_s26_ms_2.pdf",
+      "text": "June 2026 Mark Scheme 2",
+      "textCondensed": "7180_s26_ms_2",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7180_s26_qp_01.pdf",
+      "text": "June 2026 Question Paper 01",
+      "textCondensed": "7180_s26_qp_01",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7180_s26_qp_02.pdf",
+      "text": "June 2026 Question Paper 02",
+      "textCondensed": "7180_s26_qp_02",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7180_s26_gt.pdf",
+      "text": "June 2026 Grade Threshold",
+      "textCondensed": "7180_s26_gt",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7180_s25_er.pdf",
+      "text": "June 2025 Examiner Reports",
+      "textCondensed": "7180_s25_er",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7180_s25_ms_1.pdf",
+      "text": "June 2025 Mark Scheme 1",
+      "textCondensed": "7180_s25_ms_1",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7180_s25_ms_2.pdf",
+      "text": "June 2025 Mark Scheme 2",
+      "textCondensed": "7180_s25_ms_2",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7180_s25_qp_01.pdf",
+      "text": "June 2025 Question Paper 01",
+      "textCondensed": "7180_s25_qp_01",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7180_s25_qp_02.pdf",
+      "text": "June 2025 Question Paper 02",
+      "textCondensed": "7180_s25_qp_02",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/7180_s25_gt.pdf",
+      "text": "June 2025 Grade Threshold",
+      "textCondensed": "7180_s25_gt",
+      "folder": "2025-May-June"
+    }
+  ]
+}

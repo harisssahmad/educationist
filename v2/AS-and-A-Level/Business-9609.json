@@ -1,32 +1,644 @@
 {
   "board": "AS and A Level",
   "subject": "Business- 9609",
-  "total_papers": 510,
-  "scraped_at": "2025-06-18 12:40:05",
+  "total_papers": 616,
+  "scraped_at": "2026-10-08 00:48:37",
   "papers": [
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w24_gt.pdf",
-      "text": "November 2024 Grade Threshold",
-      "textCondensed": "9609_w24_gt",
-      "folder": "2024-Oct-Nov"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_ms_11.pdf",
+      "text": "June 2026 Mark Scheme 11",
+      "textCondensed": "9609_s26_ms_11",
+      "folder": "2026-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w24_in_31.pdf",
-      "text": "November 2024 Insert 31",
-      "textCondensed": "9609_w24_in_31",
-      "folder": "2024-Oct-Nov"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_ms_12.pdf",
+      "text": "June 2026 Mark Scheme 12",
+      "textCondensed": "9609_s26_ms_12",
+      "folder": "2026-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w24_in_32.pdf",
-      "text": "November 2024 Insert 32",
-      "textCondensed": "9609_w24_in_32",
-      "folder": "2024-Oct-Nov"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_ms_13.pdf",
+      "text": "June 2026 Mark Scheme 13",
+      "textCondensed": "9609_s26_ms_13",
+      "folder": "2026-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w24_in_33.pdf",
-      "text": "November 2024 Insert 33",
-      "textCondensed": "9609_w24_in_33",
-      "folder": "2024-Oct-Nov"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_ms_21.pdf",
+      "text": "June 2026 Mark Scheme 21",
+      "textCondensed": "9609_s26_ms_21",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_ms_22.pdf",
+      "text": "June 2026 Mark Scheme 22",
+      "textCondensed": "9609_s26_ms_22",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_ms_23.pdf",
+      "text": "June 2026 Mark Scheme 23",
+      "textCondensed": "9609_s26_ms_23",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_ms_31.pdf",
+      "text": "June 2026 Mark Scheme 31",
+      "textCondensed": "9609_s26_ms_31",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_ms_32.pdf",
+      "text": "June 2026 Mark Scheme 32",
+      "textCondensed": "9609_s26_ms_32",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_ms_33.pdf",
+      "text": "June 2026 Mark Scheme 33",
+      "textCondensed": "9609_s26_ms_33",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_ms_41.pdf",
+      "text": "June 2026 Mark Scheme 41",
+      "textCondensed": "9609_s26_ms_41",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_ms_42.pdf",
+      "text": "June 2026 Mark Scheme 42",
+      "textCondensed": "9609_s26_ms_42",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_ms_43.pdf",
+      "text": "June 2026 Mark Scheme 43",
+      "textCondensed": "9609_s26_ms_43",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_qp_11.pdf",
+      "text": "June 2026 Question Paper 11",
+      "textCondensed": "9609_s26_qp_11",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_qp_12.pdf",
+      "text": "June 2026 Question Paper 12",
+      "textCondensed": "9609_s26_qp_12",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_qp_13.pdf",
+      "text": "June 2026 Question Paper 13",
+      "textCondensed": "9609_s26_qp_13",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_qp_21.pdf",
+      "text": "June 2026 Question Paper 21",
+      "textCondensed": "9609_s26_qp_21",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_qp_22.pdf",
+      "text": "June 2026 Question Paper 22",
+      "textCondensed": "9609_s26_qp_22",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_qp_23.pdf",
+      "text": "June 2026 Question Paper 23",
+      "textCondensed": "9609_s26_qp_23",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_qp_31.pdf",
+      "text": "June 2026 Question Paper 31",
+      "textCondensed": "9609_s26_qp_31",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_qp_32.pdf",
+      "text": "June 2026 Question Paper 32",
+      "textCondensed": "9609_s26_qp_32",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_qp_33.pdf",
+      "text": "June 2026 Question Paper 33",
+      "textCondensed": "9609_s26_qp_33",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_qp_41.pdf",
+      "text": "June 2026 Question Paper 41",
+      "textCondensed": "9609_s26_qp_41",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_qp_42.pdf",
+      "text": "June 2026 Question Paper 42",
+      "textCondensed": "9609_s26_qp_42",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_qp_43.pdf",
+      "text": "June 2026 Question Paper 43",
+      "textCondensed": "9609_s26_qp_43",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_in_31.pdf",
+      "text": "June 2026 Insert 31",
+      "textCondensed": "9609_s26_in_31",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_in_32.pdf",
+      "text": "June 2026 Insert 32",
+      "textCondensed": "9609_s26_in_32",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_in_33.pdf",
+      "text": "June 2026 Insert 33",
+      "textCondensed": "9609_s26_in_33",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s26_gt.pdf",
+      "text": "June 2026 Grade Threshold",
+      "textCondensed": "9609_s26_gt",
+      "folder": "2026-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m26_er.pdf",
+      "text": "March 2026 Examiner Reports",
+      "textCondensed": "9609_m26_er",
+      "folder": "2026-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m26_ms_12.pdf",
+      "text": "March 2026 Mark Scheme 12",
+      "textCondensed": "9609_m26_ms_12",
+      "folder": "2026-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m26_ms_22.pdf",
+      "text": "March 2026 Mark Scheme 22",
+      "textCondensed": "9609_m26_ms_22",
+      "folder": "2026-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m26_ms_32.pdf",
+      "text": "March 2026 Mark Scheme 32",
+      "textCondensed": "9609_m26_ms_32",
+      "folder": "2026-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m26_ms_42.pdf",
+      "text": "March 2026 Mark Scheme 42",
+      "textCondensed": "9609_m26_ms_42",
+      "folder": "2026-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m26_qp_12.pdf",
+      "text": "March 2026 Question Paper 12",
+      "textCondensed": "9609_m26_qp_12",
+      "folder": "2026-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m26_qp_22.pdf",
+      "text": "March 2026 Question Paper 22",
+      "textCondensed": "9609_m26_qp_22",
+      "folder": "2026-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m26_qp_32.pdf",
+      "text": "March 2026 Question Paper 32",
+      "textCondensed": "9609_m26_qp_32",
+      "folder": "2026-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m26_qp_42.pdf",
+      "text": "March 2026 Question Paper 42",
+      "textCondensed": "9609_m26_qp_42",
+      "folder": "2026-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m26_in_32.pdf",
+      "text": "March 2026 Insert 32",
+      "textCondensed": "9609_m26_in_32",
+      "folder": "2026-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m26_gt.pdf",
+      "text": "March 2026 Grade Threshold",
+      "textCondensed": "9609_m26_gt",
+      "folder": "2026-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_ms_11.pdf",
+      "text": "November 2025 Mark Scheme 11",
+      "textCondensed": "9609_w25_ms_11",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_ms_12.pdf",
+      "text": "November 2025 Mark Scheme 12",
+      "textCondensed": "9609_w25_ms_12",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_ms_13.pdf",
+      "text": "November 2025 Mark Scheme 13",
+      "textCondensed": "9609_w25_ms_13",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_ms_21.pdf",
+      "text": "November 2025 Mark Scheme 21",
+      "textCondensed": "9609_w25_ms_21",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_ms_22.pdf",
+      "text": "November 2025 Mark Scheme 22",
+      "textCondensed": "9609_w25_ms_22",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_ms_23.pdf",
+      "text": "November 2025 Mark Scheme 23",
+      "textCondensed": "9609_w25_ms_23",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_ms_31.pdf",
+      "text": "November 2025 Mark Scheme 31",
+      "textCondensed": "9609_w25_ms_31",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_ms_32.pdf",
+      "text": "November 2025 Mark Scheme 32",
+      "textCondensed": "9609_w25_ms_32",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_ms_33.pdf",
+      "text": "November 2025 Mark Scheme 33",
+      "textCondensed": "9609_w25_ms_33",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_ms_41.pdf",
+      "text": "November 2025 Mark Scheme 41",
+      "textCondensed": "9609_w25_ms_41",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_ms_42.pdf",
+      "text": "November 2025 Mark Scheme 42",
+      "textCondensed": "9609_w25_ms_42",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_ms_43.pdf",
+      "text": "November 2025 Mark Scheme 43",
+      "textCondensed": "9609_w25_ms_43",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_qp_11.pdf",
+      "text": "November 2025 Question Paper 11",
+      "textCondensed": "9609_w25_qp_11",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_qp_12.pdf",
+      "text": "November 2025 Question Paper 12",
+      "textCondensed": "9609_w25_qp_12",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_qp_13.pdf",
+      "text": "November 2025 Question Paper 13",
+      "textCondensed": "9609_w25_qp_13",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_qp_21.pdf",
+      "text": "November 2025 Question Paper 21",
+      "textCondensed": "9609_w25_qp_21",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_qp_22.pdf",
+      "text": "November 2025 Question Paper 22",
+      "textCondensed": "9609_w25_qp_22",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_qp_23.pdf",
+      "text": "November 2025 Question Paper 23",
+      "textCondensed": "9609_w25_qp_23",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_qp_31.pdf",
+      "text": "November 2025 Question Paper 31",
+      "textCondensed": "9609_w25_qp_31",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_qp_32.pdf",
+      "text": "November 2025 Question Paper 32",
+      "textCondensed": "9609_w25_qp_32",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_qp_33.pdf",
+      "text": "November 2025 Question Paper 33",
+      "textCondensed": "9609_w25_qp_33",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_qp_41.pdf",
+      "text": "November 2025 Question Paper 41",
+      "textCondensed": "9609_w25_qp_41",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_qp_42.pdf",
+      "text": "November 2025 Question Paper 42",
+      "textCondensed": "9609_w25_qp_42",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_qp_43.pdf",
+      "text": "November 2025 Question Paper 43",
+      "textCondensed": "9609_w25_qp_43",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_in_31.pdf",
+      "text": "November 2025 Insert 31",
+      "textCondensed": "9609_w25_in_31",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_in_32.pdf",
+      "text": "November 2025 Insert 32",
+      "textCondensed": "9609_w25_in_32",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_in_33.pdf",
+      "text": "November 2025 Insert 33",
+      "textCondensed": "9609_w25_in_33",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w25_gt.pdf",
+      "text": "November 2025 Grade Threshold",
+      "textCondensed": "9609_w25_gt",
+      "folder": "2025-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_ms_11.pdf",
+      "text": "June 2025 Mark Scheme 11",
+      "textCondensed": "9609_s25_ms_11",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_ms_12.pdf",
+      "text": "June 2025 Mark Scheme 12",
+      "textCondensed": "9609_s25_ms_12",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_ms_13.pdf",
+      "text": "June 2025 Mark Scheme 13",
+      "textCondensed": "9609_s25_ms_13",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_ms_21.pdf",
+      "text": "June 2025 Mark Scheme 21",
+      "textCondensed": "9609_s25_ms_21",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_ms_22.pdf",
+      "text": "June 2025 Mark Scheme 22",
+      "textCondensed": "9609_s25_ms_22",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_ms_23.pdf",
+      "text": "June 2025 Mark Scheme 23",
+      "textCondensed": "9609_s25_ms_23",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_ms_31.pdf",
+      "text": "June 2025 Mark Scheme 31",
+      "textCondensed": "9609_s25_ms_31",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_ms_32.pdf",
+      "text": "June 2025 Mark Scheme 32",
+      "textCondensed": "9609_s25_ms_32",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_ms_33.pdf",
+      "text": "June 2025 Mark Scheme 33",
+      "textCondensed": "9609_s25_ms_33",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_ms_41.pdf",
+      "text": "June 2025 Mark Scheme 41",
+      "textCondensed": "9609_s25_ms_41",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_ms_42.pdf",
+      "text": "June 2025 Mark Scheme 42",
+      "textCondensed": "9609_s25_ms_42",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_ms_43.pdf",
+      "text": "June 2025 Mark Scheme 43",
+      "textCondensed": "9609_s25_ms_43",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_qp_11.pdf",
+      "text": "June 2025 Question Paper 11",
+      "textCondensed": "9609_s25_qp_11",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_qp_12.pdf",
+      "text": "June 2025 Question Paper 12",
+      "textCondensed": "9609_s25_qp_12",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_qp_13.pdf",
+      "text": "June 2025 Question Paper 13",
+      "textCondensed": "9609_s25_qp_13",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_qp_21.pdf",
+      "text": "June 2025 Question Paper 21",
+      "textCondensed": "9609_s25_qp_21",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_qp_22.pdf",
+      "text": "June 2025 Question Paper 22",
+      "textCondensed": "9609_s25_qp_22",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_qp_23.pdf",
+      "text": "June 2025 Question Paper 23",
+      "textCondensed": "9609_s25_qp_23",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_qp_31.pdf",
+      "text": "June 2025 Question Paper 31",
+      "textCondensed": "9609_s25_qp_31",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_qp_32.pdf",
+      "text": "June 2025 Question Paper 32",
+      "textCondensed": "9609_s25_qp_32",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_qp_33.pdf",
+      "text": "June 2025 Question Paper 33",
+      "textCondensed": "9609_s25_qp_33",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_qp_41.pdf",
+      "text": "June 2025 Question Paper 41",
+      "textCondensed": "9609_s25_qp_41",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_qp_42.pdf",
+      "text": "June 2025 Question Paper 42",
+      "textCondensed": "9609_s25_qp_42",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_qp_43.pdf",
+      "text": "June 2025 Question Paper 43",
+      "textCondensed": "9609_s25_qp_43",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_in_31.pdf",
+      "text": "June 2025 Insert 31",
+      "textCondensed": "9609_s25_in_31",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_in_32.pdf",
+      "text": "June 2025 Insert 32",
+      "textCondensed": "9609_s25_in_32",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_in_33.pdf",
+      "text": "June 2025 Insert 33",
+      "textCondensed": "9609_s25_in_33",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s25_gt.pdf",
+      "text": "June 2025 Grade Threshold",
+      "textCondensed": "9609_s25_gt",
+      "folder": "2025-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m25_er.pdf",
+      "text": "March 2025 Examiner Reports",
+      "textCondensed": "9609_m25_er",
+      "folder": "2025-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m25_ms_12.pdf",
+      "text": "March 2025 Mark Scheme 12",
+      "textCondensed": "9609_m25_ms_12",
+      "folder": "2025-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m25_ms_22.pdf",
+      "text": "March 2025 Mark Scheme 22",
+      "textCondensed": "9609_m25_ms_22",
+      "folder": "2025-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m25_ms_32.pdf",
+      "text": "March 2025 Mark Scheme 32",
+      "textCondensed": "9609_m25_ms_32",
+      "folder": "2025-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m25_ms_42.pdf",
+      "text": "March 2025 Mark Scheme 42",
+      "textCondensed": "9609_m25_ms_42",
+      "folder": "2025-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m25_qp_12.pdf",
+      "text": "March 2025 Question Paper 12",
+      "textCondensed": "9609_m25_qp_12",
+      "folder": "2025-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m25_qp_22.pdf",
+      "text": "March 2025 Question Paper 22",
+      "textCondensed": "9609_m25_qp_22",
+      "folder": "2025-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m25_qp_32.pdf",
+      "text": "March 2025 Question Paper 32",
+      "textCondensed": "9609_m25_qp_32",
+      "folder": "2025-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m25_qp_42.pdf",
+      "text": "March 2025 Question Paper 42",
+      "textCondensed": "9609_m25_qp_42",
+      "folder": "2025-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m25_in_32.pdf",
+      "text": "March 2025 Insert 32",
+      "textCondensed": "9609_m25_in_32",
+      "folder": "2025-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m25_gt.pdf",
+      "text": "March 2025 Grade Threshold",
+      "textCondensed": "9609_m25_gt",
+      "folder": "2025-March"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w24_ms_11.pdf",
@@ -173,28 +785,28 @@
       "folder": "2024-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s24_gt.pdf",
-      "text": "June 2024 Grade Threshold",
-      "textCondensed": "9609_s24_gt",
-      "folder": "2024-May-June"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w24_in_31.pdf",
+      "text": "November 2024 Insert 31",
+      "textCondensed": "9609_w24_in_31",
+      "folder": "2024-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s24_in_31.pdf",
-      "text": "June 2024 Insert 31",
-      "textCondensed": "9609_s24_in_31",
-      "folder": "2024-May-June"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w24_in_32.pdf",
+      "text": "November 2024 Insert 32",
+      "textCondensed": "9609_w24_in_32",
+      "folder": "2024-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s24_in_32.pdf",
-      "text": "June 2024 Insert 32",
-      "textCondensed": "9609_s24_in_32",
-      "folder": "2024-May-June"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w24_in_33.pdf",
+      "text": "November 2024 Insert 33",
+      "textCondensed": "9609_w24_in_33",
+      "folder": "2024-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s24_in_33.pdf",
-      "text": "June 2024 Insert 33",
-      "textCondensed": "9609_s24_in_33",
-      "folder": "2024-May-June"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w24_gt.pdf",
+      "text": "November 2024 Grade Threshold",
+      "textCondensed": "9609_w24_gt",
+      "folder": "2024-Oct-Nov"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s24_ms_11.pdf",
@@ -341,16 +953,28 @@
       "folder": "2024-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m24_gt.pdf",
-      "text": "March 2024 Grade Threshold",
-      "textCondensed": "9609_m24_gt",
-      "folder": "2024-March"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s24_in_31.pdf",
+      "text": "June 2024 Insert 31",
+      "textCondensed": "9609_s24_in_31",
+      "folder": "2024-May-June"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m24_in_32.pdf",
-      "text": "March 2024 Insert 32",
-      "textCondensed": "9609_m24_in_32",
-      "folder": "2024-March"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s24_in_32.pdf",
+      "text": "June 2024 Insert 32",
+      "textCondensed": "9609_s24_in_32",
+      "folder": "2024-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s24_in_33.pdf",
+      "text": "June 2024 Insert 33",
+      "textCondensed": "9609_s24_in_33",
+      "folder": "2024-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s24_gt.pdf",
+      "text": "June 2024 Grade Threshold",
+      "textCondensed": "9609_s24_gt",
+      "folder": "2024-May-June"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m24_ms_12.pdf",
@@ -401,33 +1025,21 @@
       "folder": "2024-March"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m24_in_32.pdf",
+      "text": "March 2024 Insert 32",
+      "textCondensed": "9609_m24_in_32",
+      "folder": "2024-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m24_gt.pdf",
+      "text": "March 2024 Grade Threshold",
+      "textCondensed": "9609_m24_gt",
+      "folder": "2024-March"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w23_er.pdf",
       "text": "November 2023 Examiner Reports",
       "textCondensed": "9609_w23_er",
-      "folder": "2023-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w23_gt.pdf",
-      "text": "November 2023 Grade Threshold",
-      "textCondensed": "9609_w23_gt",
-      "folder": "2023-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w23_in_31.pdf",
-      "text": "November 2023 Insert 31",
-      "textCondensed": "9609_w23_in_31",
-      "folder": "2023-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w23_in_32.pdf",
-      "text": "November 2023 Insert 32",
-      "textCondensed": "9609_w23_in_32",
-      "folder": "2023-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w23_in_33.pdf",
-      "text": "November 2023 Insert 33",
-      "textCondensed": "9609_w23_in_33",
       "folder": "2023-Oct-Nov"
     },
     {
@@ -575,33 +1187,33 @@
       "folder": "2023-Oct-Nov"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w23_in_31.pdf",
+      "text": "November 2023 Insert 31",
+      "textCondensed": "9609_w23_in_31",
+      "folder": "2023-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w23_in_32.pdf",
+      "text": "November 2023 Insert 32",
+      "textCondensed": "9609_w23_in_32",
+      "folder": "2023-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w23_in_33.pdf",
+      "text": "November 2023 Insert 33",
+      "textCondensed": "9609_w23_in_33",
+      "folder": "2023-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w23_gt.pdf",
+      "text": "November 2023 Grade Threshold",
+      "textCondensed": "9609_w23_gt",
+      "folder": "2023-Oct-Nov"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s23_er.pdf",
       "text": "June 2023 Examiner Reports",
       "textCondensed": "9609_s23_er",
-      "folder": "2023-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s23_gt.pdf",
-      "text": "June 2023 Grade Threshold",
-      "textCondensed": "9609_s23_gt",
-      "folder": "2023-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s23_in_31.pdf",
-      "text": "June 2023 Insert 31",
-      "textCondensed": "9609_s23_in_31",
-      "folder": "2023-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s23_in_32.pdf",
-      "text": "June 2023 Insert 32",
-      "textCondensed": "9609_s23_in_32",
-      "folder": "2023-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s23_in_33.pdf",
-      "text": "June 2023 Insert 33",
-      "textCondensed": "9609_s23_in_33",
       "folder": "2023-May-June"
     },
     {
@@ -749,21 +1361,33 @@
       "folder": "2023-May-June"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s23_in_31.pdf",
+      "text": "June 2023 Insert 31",
+      "textCondensed": "9609_s23_in_31",
+      "folder": "2023-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s23_in_32.pdf",
+      "text": "June 2023 Insert 32",
+      "textCondensed": "9609_s23_in_32",
+      "folder": "2023-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s23_in_33.pdf",
+      "text": "June 2023 Insert 33",
+      "textCondensed": "9609_s23_in_33",
+      "folder": "2023-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s23_gt.pdf",
+      "text": "June 2023 Grade Threshold",
+      "textCondensed": "9609_s23_gt",
+      "folder": "2023-May-June"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m23_er.pdf",
       "text": "March 2023 Examiner Reports",
       "textCondensed": "9609_m23_er",
-      "folder": "2023-March"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m23_gt.pdf",
-      "text": "March 2023 Grade Threshold",
-      "textCondensed": "9609_m23_gt",
-      "folder": "2023-March"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m23_in_32.pdf",
-      "text": "March 2023 Insert 32",
-      "textCondensed": "9609_m23_in_32",
       "folder": "2023-March"
     },
     {
@@ -815,33 +1439,21 @@
       "folder": "2023-March"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m23_in_32.pdf",
+      "text": "March 2023 Insert 32",
+      "textCondensed": "9609_m23_in_32",
+      "folder": "2023-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m23_gt.pdf",
+      "text": "March 2023 Grade Threshold",
+      "textCondensed": "9609_m23_gt",
+      "folder": "2023-March"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w22_er.pdf",
       "text": "November 2022 Examiner Reports",
       "textCondensed": "9609_w22_er",
-      "folder": "2022-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w22_gt.pdf",
-      "text": "November 2022 Grade Threshold",
-      "textCondensed": "9609_w22_gt",
-      "folder": "2022-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w22_in_31.pdf",
-      "text": "November 2022 Insert 31",
-      "textCondensed": "9609_w22_in_31",
-      "folder": "2022-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w22_in_32.pdf",
-      "text": "November 2022 Insert 32",
-      "textCondensed": "9609_w22_in_32",
-      "folder": "2022-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w22_in_33.pdf",
-      "text": "November 2022 Insert 33",
-      "textCondensed": "9609_w22_in_33",
       "folder": "2022-Oct-Nov"
     },
     {
@@ -953,33 +1565,33 @@
       "folder": "2022-Oct-Nov"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w22_in_31.pdf",
+      "text": "November 2022 Insert 31",
+      "textCondensed": "9609_w22_in_31",
+      "folder": "2022-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w22_in_32.pdf",
+      "text": "November 2022 Insert 32",
+      "textCondensed": "9609_w22_in_32",
+      "folder": "2022-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w22_in_33.pdf",
+      "text": "November 2022 Insert 33",
+      "textCondensed": "9609_w22_in_33",
+      "folder": "2022-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w22_gt.pdf",
+      "text": "November 2022 Grade Threshold",
+      "textCondensed": "9609_w22_gt",
+      "folder": "2022-Oct-Nov"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s22_er.pdf",
       "text": "June 2022 Examiner Reports",
       "textCondensed": "9609_s22_er",
-      "folder": "2022-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s22_gt.pdf",
-      "text": "June 2022 Grade Threshold",
-      "textCondensed": "9609_s22_gt",
-      "folder": "2022-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s22_in_31.pdf",
-      "text": "June 2022 Insert 31",
-      "textCondensed": "9609_s22_in_31",
-      "folder": "2022-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s22_in_32.pdf",
-      "text": "June 2022 Insert 32",
-      "textCondensed": "9609_s22_in_32",
-      "folder": "2022-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s22_in_33.pdf",
-      "text": "June 2022 Insert 33",
-      "textCondensed": "9609_s22_in_33",
       "folder": "2022-May-June"
     },
     {
@@ -1091,21 +1703,33 @@
       "folder": "2022-May-June"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s22_in_31.pdf",
+      "text": "June 2022 Insert 31",
+      "textCondensed": "9609_s22_in_31",
+      "folder": "2022-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s22_in_32.pdf",
+      "text": "June 2022 Insert 32",
+      "textCondensed": "9609_s22_in_32",
+      "folder": "2022-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s22_in_33.pdf",
+      "text": "June 2022 Insert 33",
+      "textCondensed": "9609_s22_in_33",
+      "folder": "2022-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s22_gt.pdf",
+      "text": "June 2022 Grade Threshold",
+      "textCondensed": "9609_s22_gt",
+      "folder": "2022-May-June"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m22_er.pdf",
       "text": "March 2022 Examiner Reports",
       "textCondensed": "9609_m22_er",
-      "folder": "2022-Feb-March"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m22_gt.pdf",
-      "text": "March 2022 Grade Threshold",
-      "textCondensed": "9609_m22_gt",
-      "folder": "2022-Feb-March"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m22_in_32.pdf",
-      "text": "March 2022 Insert 32",
-      "textCondensed": "9609_m22_in_32",
       "folder": "2022-Feb-March"
     },
     {
@@ -1145,33 +1769,21 @@
       "folder": "2022-Feb-March"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m22_in_32.pdf",
+      "text": "March 2022 Insert 32",
+      "textCondensed": "9609_m22_in_32",
+      "folder": "2022-Feb-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m22_gt.pdf",
+      "text": "March 2022 Grade Threshold",
+      "textCondensed": "9609_m22_gt",
+      "folder": "2022-Feb-March"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w21_er.pdf",
       "text": "November 2021 Examiner Reports",
       "textCondensed": "9609_w21_er",
-      "folder": "2021-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w21_gt.pdf",
-      "text": "November 2021 Grade Threshold",
-      "textCondensed": "9609_w21_gt",
-      "folder": "2021-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w21_in_31.pdf",
-      "text": "November 2021 Insert 31",
-      "textCondensed": "9609_w21_in_31",
-      "folder": "2021-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w21_in_32.pdf",
-      "text": "November 2021 Insert 32",
-      "textCondensed": "9609_w21_in_32",
-      "folder": "2021-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w21_in_33.pdf",
-      "text": "November 2021 Insert 33",
-      "textCondensed": "9609_w21_in_33",
       "folder": "2021-Oct-Nov"
     },
     {
@@ -1283,39 +1895,33 @@
       "folder": "2021-Oct-Nov"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w21_in_31.pdf",
+      "text": "November 2021 Insert 31",
+      "textCondensed": "9609_w21_in_31",
+      "folder": "2021-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w21_in_32.pdf",
+      "text": "November 2021 Insert 32",
+      "textCondensed": "9609_w21_in_32",
+      "folder": "2021-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w21_in_33.pdf",
+      "text": "November 2021 Insert 33",
+      "textCondensed": "9609_w21_in_33",
+      "folder": "2021-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w21_gt.pdf",
+      "text": "November 2021 Grade Threshold",
+      "textCondensed": "9609_w21_gt",
+      "folder": "2021-Oct-Nov"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s21_er.pdf",
       "text": "June 2021 Examiner Reports",
       "textCondensed": "9609_s21_er",
-      "folder": "2021-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s21_gt.pdf",
-      "text": "June 2021 Grade Threshold",
-      "textCondensed": "9609_s21_gt",
-      "folder": "2021-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s21_in_31.pdf",
-      "text": "June 2021 Insert 31",
-      "textCondensed": "9609_s21_in_31",
-      "folder": "2021-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s21_in_32.pdf",
-      "text": "June 2021 Insert 32",
-      "textCondensed": "9609_s21_in_32",
-      "folder": "2021-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s21_in_33.pdf",
-      "text": "June 2021 Insert 33",
-      "textCondensed": "9609_s21_in_33",
-      "folder": "2021-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s21_in_34.pdf",
-      "text": "June 2021 Insert 34",
-      "textCondensed": "9609_s21_in_34",
       "folder": "2021-May-June"
     },
     {
@@ -1463,21 +2069,39 @@
       "folder": "2021-May-June"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s21_in_31.pdf",
+      "text": "June 2021 Insert 31",
+      "textCondensed": "9609_s21_in_31",
+      "folder": "2021-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s21_in_32.pdf",
+      "text": "June 2021 Insert 32",
+      "textCondensed": "9609_s21_in_32",
+      "folder": "2021-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s21_in_33.pdf",
+      "text": "June 2021 Insert 33",
+      "textCondensed": "9609_s21_in_33",
+      "folder": "2021-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s21_in_34.pdf",
+      "text": "June 2021 Insert 34",
+      "textCondensed": "9609_s21_in_34",
+      "folder": "2021-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s21_gt.pdf",
+      "text": "June 2021 Grade Threshold",
+      "textCondensed": "9609_s21_gt",
+      "folder": "2021-May-June"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m21_er.pdf",
       "text": "March 2021 Examiner Reports",
       "textCondensed": "9609_m21_er",
-      "folder": "2021-March"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m21_gt.pdf",
-      "text": "March 2021 Grade Threshold",
-      "textCondensed": "9609_m21_gt",
-      "folder": "2021-March"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m21_in_32.pdf",
-      "text": "March 2021 Insert 32",
-      "textCondensed": "9609_m21_in_32",
       "folder": "2021-March"
     },
     {
@@ -1517,33 +2141,21 @@
       "folder": "2021-March"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m21_in_32.pdf",
+      "text": "March 2021 Insert 32",
+      "textCondensed": "9609_m21_in_32",
+      "folder": "2021-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m21_gt.pdf",
+      "text": "March 2021 Grade Threshold",
+      "textCondensed": "9609_m21_gt",
+      "folder": "2021-March"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w20_er.pdf",
       "text": "November 2020 Examiner Reports",
       "textCondensed": "9609_w20_er",
-      "folder": "2020-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w20_gt.pdf",
-      "text": "November 2020 Grade Threshold",
-      "textCondensed": "9609_w20_gt",
-      "folder": "2020-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w20_in_31.pdf",
-      "text": "November 2020 Insert 31",
-      "textCondensed": "9609_w20_in_31",
-      "folder": "2020-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w20_in_32.pdf",
-      "text": "November 2020 Insert 32",
-      "textCondensed": "9609_w20_in_32",
-      "folder": "2020-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w20_in_33.pdf",
-      "text": "November 2020 Insert 33",
-      "textCondensed": "9609_w20_in_33",
       "folder": "2020-Oct-Nov"
     },
     {
@@ -1655,22 +2267,28 @@
       "folder": "2020-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s20_in_31.pdf",
-      "text": "June 2020 Insert 31",
-      "textCondensed": "9609_s20_in_31",
-      "folder": "2020-May-June"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w20_in_31.pdf",
+      "text": "November 2020 Insert 31",
+      "textCondensed": "9609_w20_in_31",
+      "folder": "2020-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s20_in_32.pdf",
-      "text": "June 2020 Insert 32",
-      "textCondensed": "9609_s20_in_32",
-      "folder": "2020-May-June"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w20_in_32.pdf",
+      "text": "November 2020 Insert 32",
+      "textCondensed": "9609_w20_in_32",
+      "folder": "2020-Oct-Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s20_in_33.pdf",
-      "text": "June 2020 Insert 33",
-      "textCondensed": "9609_s20_in_33",
-      "folder": "2020-May-June"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w20_in_33.pdf",
+      "text": "November 2020 Insert 33",
+      "textCondensed": "9609_w20_in_33",
+      "folder": "2020-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w20_gt.pdf",
+      "text": "November 2020 Grade Threshold",
+      "textCondensed": "9609_w20_gt",
+      "folder": "2020-Oct-Nov"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s20_ms_11.pdf",
@@ -1781,21 +2399,27 @@
       "folder": "2020-May-June"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s20_in_31.pdf",
+      "text": "June 2020 Insert 31",
+      "textCondensed": "9609_s20_in_31",
+      "folder": "2020-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s20_in_32.pdf",
+      "text": "June 2020 Insert 32",
+      "textCondensed": "9609_s20_in_32",
+      "folder": "2020-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s20_in_33.pdf",
+      "text": "June 2020 Insert 33",
+      "textCondensed": "9609_s20_in_33",
+      "folder": "2020-May-June"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m20_er.pdf",
       "text": "March 2020 Examiner Reports",
       "textCondensed": "9609_m20_er",
-      "folder": "2020 March"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m20_gt.pdf",
-      "text": "March 2020 Grade Threshold",
-      "textCondensed": "9609_m20_gt",
-      "folder": "2020 March"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m20_in_32.pdf",
-      "text": "March 2020 Insert 32",
-      "textCondensed": "9609_m20_in_32",
       "folder": "2020 March"
     },
     {
@@ -1835,33 +2459,21 @@
       "folder": "2020 March"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m20_in_32.pdf",
+      "text": "March 2020 Insert 32",
+      "textCondensed": "9609_m20_in_32",
+      "folder": "2020 March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m20_gt.pdf",
+      "text": "March 2020 Grade Threshold",
+      "textCondensed": "9609_m20_gt",
+      "folder": "2020 March"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w19_er.pdf",
       "text": "November 2019 Examiner Reports",
       "textCondensed": "9609_w19_er",
-      "folder": "2019-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w19_gt.pdf",
-      "text": "November 2019 Grade Threshold",
-      "textCondensed": "9609_w19_gt",
-      "folder": "2019-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w19_in_31.pdf",
-      "text": "November 2019 Insert 31",
-      "textCondensed": "9609_w19_in_31",
-      "folder": "2019-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w19_in_32.pdf",
-      "text": "November 2019 Insert 32",
-      "textCondensed": "9609_w19_in_32",
-      "folder": "2019-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w19_in_33.pdf",
-      "text": "November 2019 Insert 33",
-      "textCondensed": "9609_w19_in_33",
       "folder": "2019-Oct-Nov"
     },
     {
@@ -1973,33 +2585,33 @@
       "folder": "2019-Oct-Nov"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w19_in_31.pdf",
+      "text": "November 2019 Insert 31",
+      "textCondensed": "9609_w19_in_31",
+      "folder": "2019-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w19_in_32.pdf",
+      "text": "November 2019 Insert 32",
+      "textCondensed": "9609_w19_in_32",
+      "folder": "2019-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w19_in_33.pdf",
+      "text": "November 2019 Insert 33",
+      "textCondensed": "9609_w19_in_33",
+      "folder": "2019-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w19_gt.pdf",
+      "text": "November 2019 Grade Threshold",
+      "textCondensed": "9609_w19_gt",
+      "folder": "2019-Oct-Nov"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s19_er.pdf",
       "text": "June 2019 Examiner Reports",
       "textCondensed": "9609_s19_er",
-      "folder": "2019-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s19_gt.pdf",
-      "text": "June 2019 Grade Threshold",
-      "textCondensed": "9609_s19_gt",
-      "folder": "2019-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s19_in_31.pdf",
-      "text": "June 2019 Insert 31",
-      "textCondensed": "9609_s19_in_31",
-      "folder": "2019-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s19_in_32.pdf",
-      "text": "June 2019 Insert 32",
-      "textCondensed": "9609_s19_in_32",
-      "folder": "2019-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s19_in_33.pdf",
-      "text": "June 2019 Insert 33",
-      "textCondensed": "9609_s19_in_33",
       "folder": "2019-May-June"
     },
     {
@@ -2111,21 +2723,33 @@
       "folder": "2019-May-June"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s19_in_31.pdf",
+      "text": "June 2019 Insert 31",
+      "textCondensed": "9609_s19_in_31",
+      "folder": "2019-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s19_in_32.pdf",
+      "text": "June 2019 Insert 32",
+      "textCondensed": "9609_s19_in_32",
+      "folder": "2019-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s19_in_33.pdf",
+      "text": "June 2019 Insert 33",
+      "textCondensed": "9609_s19_in_33",
+      "folder": "2019-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s19_gt.pdf",
+      "text": "June 2019 Grade Threshold",
+      "textCondensed": "9609_s19_gt",
+      "folder": "2019-May-June"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m19_er.pdf",
       "text": "March 2019 Examiner Reports",
       "textCondensed": "9609_m19_er",
-      "folder": "2019-March"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m19_gt.pdf",
-      "text": "March 2019 Grade Threshold",
-      "textCondensed": "9609_m19_gt",
-      "folder": "2019-March"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m19_in_32.pdf",
-      "text": "March 2019 Insert 32",
-      "textCondensed": "9609_m19_in_32",
       "folder": "2019-March"
     },
     {
@@ -2165,33 +2789,21 @@
       "folder": "2019-March"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m19_in_32.pdf",
+      "text": "March 2019 Insert 32",
+      "textCondensed": "9609_m19_in_32",
+      "folder": "2019-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m19_gt.pdf",
+      "text": "March 2019 Grade Threshold",
+      "textCondensed": "9609_m19_gt",
+      "folder": "2019-March"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w18_er.pdf",
       "text": "November 2018 Examiner Reports",
       "textCondensed": "9609_w18_er",
-      "folder": "2018-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w18_gt.pdf",
-      "text": "November 2018 Grade Threshold",
-      "textCondensed": "9609_w18_gt",
-      "folder": "2018-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w18_in_31.pdf",
-      "text": "November 2018 Insert 31",
-      "textCondensed": "9609_w18_in_31",
-      "folder": "2018-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w18_in_32.pdf",
-      "text": "November 2018 Insert 32",
-      "textCondensed": "9609_w18_in_32",
-      "folder": "2018-Oct-Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w18_in_33.pdf",
-      "text": "November 2018 Insert 33",
-      "textCondensed": "9609_w18_in_33",
       "folder": "2018-Oct-Nov"
     },
     {
@@ -2303,33 +2915,33 @@
       "folder": "2018-Oct-Nov"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w18_in_31.pdf",
+      "text": "November 2018 Insert 31",
+      "textCondensed": "9609_w18_in_31",
+      "folder": "2018-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w18_in_32.pdf",
+      "text": "November 2018 Insert 32",
+      "textCondensed": "9609_w18_in_32",
+      "folder": "2018-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w18_in_33.pdf",
+      "text": "November 2018 Insert 33",
+      "textCondensed": "9609_w18_in_33",
+      "folder": "2018-Oct-Nov"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w18_gt.pdf",
+      "text": "November 2018 Grade Threshold",
+      "textCondensed": "9609_w18_gt",
+      "folder": "2018-Oct-Nov"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s18_er.pdf",
       "text": "June 2018 Examiner Reports",
       "textCondensed": "9609_s18_er",
-      "folder": "2018-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s18_gt.pdf",
-      "text": "June 2018 Grade Threshold",
-      "textCondensed": "9609_s18_gt",
-      "folder": "2018-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s18_in_31.pdf",
-      "text": "June 2018 Insert 31",
-      "textCondensed": "9609_s18_in_31",
-      "folder": "2018-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s18_in_32.pdf",
-      "text": "June 2018 Insert 32",
-      "textCondensed": "9609_s18_in_32",
-      "folder": "2018-May-June"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s18_in_33.pdf",
-      "text": "June 2018 Insert 33",
-      "textCondensed": "9609_s18_in_33",
       "folder": "2018-May-June"
     },
     {
@@ -2441,21 +3053,33 @@
       "folder": "2018-May-June"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s18_in_31.pdf",
+      "text": "June 2018 Insert 31",
+      "textCondensed": "9609_s18_in_31",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s18_in_32.pdf",
+      "text": "June 2018 Insert 32",
+      "textCondensed": "9609_s18_in_32",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s18_in_33.pdf",
+      "text": "June 2018 Insert 33",
+      "textCondensed": "9609_s18_in_33",
+      "folder": "2018-May-June"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s18_gt.pdf",
+      "text": "June 2018 Grade Threshold",
+      "textCondensed": "9609_s18_gt",
+      "folder": "2018-May-June"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m18_er.pdf",
       "text": "March 2018 Examiner Reports",
       "textCondensed": "9609_m18_er",
-      "folder": "2018-March"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m18_gt.pdf",
-      "text": "March 2018 Grade Threshold",
-      "textCondensed": "9609_m18_gt",
-      "folder": "2018-March"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m18_in_32.pdf",
-      "text": "March 2018 Insert 32",
-      "textCondensed": "9609_m18_in_32",
       "folder": "2018-March"
     },
     {
@@ -2495,15 +3119,21 @@
       "folder": "2018-March"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m18_in_32.pdf",
+      "text": "March 2018 Insert 32",
+      "textCondensed": "9609_m18_in_32",
+      "folder": "2018-March"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m18_gt.pdf",
+      "text": "March 2018 Grade Threshold",
+      "textCondensed": "9609_m18_gt",
+      "folder": "2018-March"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w17_er.pdf",
       "text": "November 2017 Examiner Reports",
       "textCondensed": "9609_w17_er",
-      "folder": "2017 Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w17_gt.pdf",
-      "text": "November 2017 Grade Threshold",
-      "textCondensed": "9609_w17_gt",
       "folder": "2017 Nov"
     },
     {
@@ -2615,63 +3245,15 @@
       "folder": "2017 Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m17_er.pdf",
-      "text": "March 2017 Examiner Reports",
-      "textCondensed": "9609_m17_er",
-      "folder": "2017 Mar"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m17_gt.pdf",
-      "text": "March 2017 Grade Threshold",
-      "textCondensed": "9609_m17_gt",
-      "folder": "2017 Mar"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m17_ms_12.pdf",
-      "text": "March 2017 Mark Scheme 12",
-      "textCondensed": "9609_m17_ms_12",
-      "folder": "2017 Mar"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m17_ms_22.pdf",
-      "text": "March 2017 Mark Scheme 22",
-      "textCondensed": "9609_m17_ms_22",
-      "folder": "2017 Mar"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m17_ms_32.pdf",
-      "text": "March 2017 Mark Scheme 32",
-      "textCondensed": "9609_m17_ms_32",
-      "folder": "2017 Mar"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m17_qp_12.pdf",
-      "text": "March 2017 Question Paper 12",
-      "textCondensed": "9609_m17_qp_12",
-      "folder": "2017 Mar"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m17_qp_22.pdf",
-      "text": "March 2017 Question Paper 22",
-      "textCondensed": "9609_m17_qp_22",
-      "folder": "2017 Mar"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m17_qp_32.pdf",
-      "text": "March 2017 Question Paper 32",
-      "textCondensed": "9609_m17_qp_32",
-      "folder": "2017 Mar"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w17_gt.pdf",
+      "text": "November 2017 Grade Threshold",
+      "textCondensed": "9609_w17_gt",
+      "folder": "2017 Nov"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s17_er.pdf",
       "text": "June 2017 Examiner Reports",
       "textCondensed": "9609_s17_er",
-      "folder": "2017 Jun"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s17_gt.pdf",
-      "text": "June 2017 Grade Threshold",
-      "textCondensed": "9609_s17_gt",
       "folder": "2017 Jun"
     },
     {
@@ -2783,15 +3365,63 @@
       "folder": "2017 Jun"
     },
     {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s17_gt.pdf",
+      "text": "June 2017 Grade Threshold",
+      "textCondensed": "9609_s17_gt",
+      "folder": "2017 Jun"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m17_er.pdf",
+      "text": "March 2017 Examiner Reports",
+      "textCondensed": "9609_m17_er",
+      "folder": "2017 Mar"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m17_ms_12.pdf",
+      "text": "March 2017 Mark Scheme 12",
+      "textCondensed": "9609_m17_ms_12",
+      "folder": "2017 Mar"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m17_ms_22.pdf",
+      "text": "March 2017 Mark Scheme 22",
+      "textCondensed": "9609_m17_ms_22",
+      "folder": "2017 Mar"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m17_ms_32.pdf",
+      "text": "March 2017 Mark Scheme 32",
+      "textCondensed": "9609_m17_ms_32",
+      "folder": "2017 Mar"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m17_qp_12.pdf",
+      "text": "March 2017 Question Paper 12",
+      "textCondensed": "9609_m17_qp_12",
+      "folder": "2017 Mar"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m17_qp_22.pdf",
+      "text": "March 2017 Question Paper 22",
+      "textCondensed": "9609_m17_qp_22",
+      "folder": "2017 Mar"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m17_qp_32.pdf",
+      "text": "March 2017 Question Paper 32",
+      "textCondensed": "9609_m17_qp_32",
+      "folder": "2017 Mar"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m17_gt.pdf",
+      "text": "March 2017 Grade Threshold",
+      "textCondensed": "9609_m17_gt",
+      "folder": "2017 Mar"
+    },
+    {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w16_er.pdf",
       "text": "November 2016 Examiner Reports",
       "textCondensed": "9609_w16_er",
-      "folder": "2016 Nov"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w16_gt.pdf",
-      "text": "November 2016 Grade Threshold",
-      "textCondensed": "9609_w16_gt",
       "folder": "2016 Nov"
     },
     {
@@ -2903,57 +3533,15 @@
       "folder": "2016 Nov"
     },
     {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m16_gt.pdf",
-      "text": "March 2016 Grade Threshold",
-      "textCondensed": "9609_m16_gt",
-      "folder": "2016 Mar"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m16_ms_12.pdf",
-      "text": "March 2016 Mark Scheme 12",
-      "textCondensed": "9609_m16_ms_12",
-      "folder": "2016 Mar"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m16_ms_22.pdf",
-      "text": "March 2016 Mark Scheme 22",
-      "textCondensed": "9609_m16_ms_22",
-      "folder": "2016 Mar"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m16_ms_32.pdf",
-      "text": "March 2016 Mark Scheme 32",
-      "textCondensed": "9609_m16_ms_32",
-      "folder": "2016 Mar"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m16_qp_12.pdf",
-      "text": "March 2016 Question Paper 12",
-      "textCondensed": "9609_m16_qp_12",
-      "folder": "2016 Mar"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m16_qp_22.pdf",
-      "text": "March 2016 Question Paper 22",
-      "textCondensed": "9609_m16_qp_22",
-      "folder": "2016 Mar"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m16_qp_32.pdf",
-      "text": "March 2016 Question Paper 32",
-      "textCondensed": "9609_m16_qp_32",
-      "folder": "2016 Mar"
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_w16_gt.pdf",
+      "text": "November 2016 Grade Threshold",
+      "textCondensed": "9609_w16_gt",
+      "folder": "2016 Nov"
     },
     {
       "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s16_er.pdf",
       "text": "June 2016 Examiner Reports",
       "textCondensed": "9609_s16_er",
-      "folder": "2016 Jun"
-    },
-    {
-      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s16_gt.pdf",
-      "text": "June 2016 Grade Threshold",
-      "textCondensed": "9609_s16_gt",
       "folder": "2016 Jun"
     },
     {
@@ -3063,6 +3651,54 @@
       "text": "June 2016 Question Paper 33",
       "textCondensed": "9609_s16_qp_33",
       "folder": "2016 Jun"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_s16_gt.pdf",
+      "text": "June 2016 Grade Threshold",
+      "textCondensed": "9609_s16_gt",
+      "folder": "2016 Jun"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m16_ms_12.pdf",
+      "text": "March 2016 Mark Scheme 12",
+      "textCondensed": "9609_m16_ms_12",
+      "folder": "2016 Mar"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m16_ms_22.pdf",
+      "text": "March 2016 Mark Scheme 22",
+      "textCondensed": "9609_m16_ms_22",
+      "folder": "2016 Mar"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m16_ms_32.pdf",
+      "text": "March 2016 Mark Scheme 32",
+      "textCondensed": "9609_m16_ms_32",
+      "folder": "2016 Mar"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m16_qp_12.pdf",
+      "text": "March 2016 Question Paper 12",
+      "textCondensed": "9609_m16_qp_12",
+      "folder": "2016 Mar"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m16_qp_22.pdf",
+      "text": "March 2016 Question Paper 22",
+      "textCondensed": "9609_m16_qp_22",
+      "folder": "2016 Mar"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m16_qp_32.pdf",
+      "text": "March 2016 Question Paper 32",
+      "textCondensed": "9609_m16_qp_32",
+      "folder": "2016 Mar"
+    },
+    {
+      "link": "https://pastpapers.papacambridge.com/download_file.php?files=https://pastpapers.papacambridge.com/directories/CAIE/CAIE-pastpapers/upload/9609_m16_gt.pdf",
+      "text": "March 2016 Grade Threshold",
+      "textCondensed": "9609_m16_gt",
+      "folder": "2016 Mar"
     }
   ]
 }
